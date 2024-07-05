@@ -1,0 +1,454 @@
+SINGLE PLAYER + MULTIPLAYER
+* ESP *
+Distance View ESP
+ESP
+Players
+Line
+Box
+Hp Bar
+Name
+Dinosaurs ESP
+Structures ESP
+Beds ESP
+Crosshair
+Size Text Name
+Thickness Drawline (value/2)
+Crosshair size
+
+AIMBOT
+Aim Type_OFF, Magic Bullet (testing), Aimlock
+Aim Part_Head, Chest, Legs
+Big Head Size
+
+Global Options
+Global Speed
+Field Of View
+Wide View
+Time Of Day (0: No change)
+Game FPS (30: no change)
+Primal Pass
+Recolor Target
+Resurrect Every Inventory
+Fly And Ghost Mode (SP & Visual MP)_OFF, Fly, Ghost
+
+Dungeon Option
+Go To Dungeon
+Save Current Dungeon Slot
+List Dungeon Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10
+Free Go To Dungeon Slot
+Dungeon Name (Ex: Sep22 Hootenanny)
+Go To Dungeon By Name
+
+PvP
+Force Pick or Demolish Structure_OFF, Pick, Demolish
+Range for Pickup
+1 Click Pickup All in Range
+Auto Pickup ALL
+Allow Apply With Team Structures
+Force Take Dino or Kill_OFF, Force Take, Kill
+Range for Apply Creatures
+Manual Click Take All Creatures in Range
+Auto Take All Creatures in Range
+Tame Shooting
+Strafing
+Instant turn
+NoSway
+Bullet Burst
+Underwater Shooting
+Infinite Ammo (Machined Pistol)
+1 Click Level Up (Unlock Notes)
+
+Inventory Options
+All Items Inventory_Force Transfer To My Inventory, Force Transfer To Target Inventory, Force Drop All Target Inventory Owned
+Apply Change
+
+Auto Settings Eerie Turrets
+State_Sleep, Active
+Range_Low, Medium, High
+Warning_No Warning, 2 Seconds, 4 seconds
+Targets_All Targets, Player/Tamed, Only Players, Only Wild
+No Ammo Push
+Apply Change All Turrets
+
+Auto Equip And Consumable
+Auto Equip Armors
+Auto Use Consumable Items
+Medical Brew
+Energy Brew
+Auto Feed Meat Heal Dinos
+
+Weapon Spam
+RPG Spam
+Manual Rocket Shoot
+
+Style Shoot_Collateral, Cluster
+Shooting mode_Simultaneous shooting, Sequential shooting
+Speed shooting
+No of Rocket (value x2)
+Spam Rocket Turret Shoot
+Manual Rocket Turret Shoot
+
+Free Structures
+Structure Dupe
+Structure Swap
+Change ID
+Auto Placed and Fly
+
+Bed Teleportation
+Go to Random Spawn Point
+Teleport To Nearest Bed
+Save Bed Location
+Slots Save Bed Location
+TP to Save Bed Location
+Enter BED ID (Get bed ID by Click Save Bed Location)
+TP to Bed by Bed ID
+
+
+Custom Player Color
+Change Body Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White
+Body Fill Rate
+Change Hair Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White
+Hair Fill Rate
+Change Eyes Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White
+Eyes Fill Rate
+Apply change color
+RGB Character
+Color Speed
+Link Tool Check ID
+Structures Spawn ID
+Items ID
+Admin Command
+Creatures ID
+
+Join Discord For Other Versions
+Subscribe to youtube channel
+
+ONLY MULTIPLAYER HACK
+Save And Auto Login Server
+Login Server
+Save Server Slots_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5
+Save Server
+
+Global Options (MP)
+Local Speed
+Raptor Skin
+Suicide
+Auto Explode
+Manual Explode
+1 Click Crash Server
+
+Chat Hack
+Chat Type (Red Message)_OFF,Text,Notification,Announcement
+Hide Login
+Spam Message
+
+Admin Panel
+Enable Admin Control with Emotes button (login admin password to admin control work)
+Enable Teleport and Jump time menu with Whistles button (login admin password to admin control work)
+Fake Admin
+
+ADMIN COMMAND MULTIPLAYER
+Get Item
+Item ID
+Amount
+Apply
+
+Get Creature
+Creature ID
+Level
+Wild & Random Level
+Apply
+
+PLAYER TELEPORT
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Custom Latitude (X)
+Custom Longitude (Y)
+Custom Coordinates (Z)
+Slot Save Location
+Apply change
+
+Setting Command
+Instant Grow Baby
+Destroy Tribe Structures
+Destroy Tribe Players
+Destroy Tribe Dinos
+Give To  Me
+Speed World
+Game Mode_OFF,PVE,PVP,PVX,PVX Clock
+Make Tribe Admin
+Make Tribe Founder
+Take All Structure
+Take All Dino
+Force Player To Join Target Tribe
+Tribe Name For Join
+Quit
+Save World
+1 Click Crash Server
+Force Sleep/WakeUp
+Set Target Dino Color
+Region_Wings,Body,Tuft and Legs,Brightness
+Color ID
+Set Imprint Quality
+Imprint Value
+Infinite Stats
+Old Name
+New Name
+Rename Player/Tribe_OFF,Rename Player,Rename Tribe
+Enemy In Visible
+Where Is Amber
+Room Teleport
+To Room Number
+Room Kill All
+List Players
+God
+GMBuff
+Make It Rain
+Heat Wave
+Player Move Mode_Walk,Fly,Fly Fast,Ghost
+Set Time Of Day
+Time Text. Ex: 14:30
+Free Gift
+Find Wild Dino
+ID Creature For Find
+Instant Dino Request
+Value of Property (>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
+Force Tame
+Auto Tame By Target
+Force Mate
+
+Summon Command
+Auto Give To Me By Target
+Manual Summon command (all text after Summon )
+Apply
+
+Shortcut Summon Command
+Tek Replicator
+Tek Teleporter
+Tek Bed
+Tek Ramp
+Tek Ladder
+Tek Pillar
+Tek Trough
+Tek Door
+Tek Door Frame
+Tek Stairsm
+Tek Railing
+Tek Fence Foundation
+Tek Wall
+Tek Wall Sloped Right
+Tek Wall Sloped Left
+Tek Roof
+Tek Window
+Tek Window Wall
+Tek Ceiling
+Tek Bp Rramp
+Tek Light
+Tek Floor
+Tek Generator
+
+Manual Admin Command
+Command text (All Text After Admincheat )
+Apply
+
+ONLY SINGLE PLAYER HACK
+Global Options (SP)
+Infinite Amber, Resources, Ammo & Free Crafting
+Fake Level 999
+Player Speed
+Player Melee Damage
+100% chance spawn Noctis in dungeon boss
+Destroy All Creatures
+
+* TELEPORT *
+PLAYER TELEPORT
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Custom Latitude (X)
+Custom Longitude (Y)
+Custom Coordinates (Z)
+Slot Save Location
+Apply change
+
+Teleport Structures
+Change to all structures in radius with Player: (>0)
+Increases or decreases (+ or - value) Height Z
+Increases or decreases (+ or - value) Y
+Increases or decreases (+ or - value) X
+Only change structures with same height Z
+Only change structures with same Duration(0: Nochange)
+Move to player Save location
+Teleport to Slot Save Location
+Get Information Structues
+Apply change
+
+* PLAYER HACK *
+Custom Player Stats
+CHANGE LEVEL PLAYER TO
+MAX HEALTH (>100, 0 for infinite)
+MAX STAMINA (>100, 0 for infinite)
+MAX OXYGEN (>100, 0 for infinite)
+MAX FOOD (>100, 0 for infinite)
+MAX WATER (>100, 0 for infinite)
+MAX WEIGHT (>100, 0 for infinite)
+MELEE DAMAGE (>100, 0 for infinite)
+MOVEMENT SPEED (>100)
+FORTITUDE (>0, 0 for infinite)
+CRAFTING SPEED (>100, 0 for infinite)
+MAX TORPOR (>200,0 for infinite)
+Apply change stats
+
+* CREATURES HACK *
+Tame Creatures
+FAST TAMING?
+Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food)
+Teleport Creature to Player
+
+Custom Color Creatures
+Body Red Value (R)
+Body Green Value (G)
+Body Blue Value (B)
+Feet Red Value (R)
+Feet Green Value (G)
+Feet Blue Value (B)
+Other Parts Red Value (R)
+Other Parts Green Value (G)
+Other Parts Blue Value (B)
+Remove RPG Color
+Apply change Color
+
+Breed And Mutation
+Force Breeding (Breeding anytime)
+Imprinting (increase stats for any creatures even no F1)
+Maturation (Force Grow Baby)
+No Time Can Mate (Reset time Can Mate of creature)
+Apply change
+
+Creatures Properties
+MAKE WILD CREATURE
+CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature
+FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE
+INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE
+Apply change
+
+Custom Special Property Creature
+Value of Property (>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
+
+Unlimited Level Creature
+WHAT CREATURE LEVEL UP TO? (>1)
+MAX HEALTH (Check if prioritize upgrade points here)
+MAX STAMINA (Check if prioritize upgrade points here)
+MAX OXYGEN (Check if prioritize upgrade points here)
+MAX FOOD (Check if prioritize upgrade points here)
+MAX WEIGHT (Check if prioritize upgrade points here)
+MAX MELEE DAMAGE (Check if prioritize upgrade points here)
+MAX TORPOR (Don't care, Auto change by creature's level)
+Apply change
+
+Custom Stats Creature
+MAX HEALTH (>1, 0 for infinite)
+MAX STAMINA (>1, 0 for infinite)
+MAX OXYGEN (>1, 0 for infinite)
+MAX FOOD (>1, 0 for infinite)
+MAX WEIGHT (>1, 0 for infinite)
+MELEE DAMAGE (>1, 0 for infinite)
+MOVEMENT SPEED (>1)
+MAX TORPOR (>200, 0 for infinite)
+EXPERIENCE CREATURE (>=0)
+Apply change stats
+
+Free Creatures
+Enter Creature Id Here (Replace Creature must have lenght ID shorter or equal original)
+Change Level Of Creature
+Free Creature Revival
+Unlimited storage time implant
+Apply change
+
+* ITEMS AND EQUIPMENTS HACK*
+Upgrade Items
+Infinite Durability
+Max Armor
+Max Damage
+Max Hypothermic and Hyperthermic
+Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows)
+Max Quality
+Make Premium Item
+Quantity Of Item (use better with Resources)
+NO SPOILS (use better with Resources are CONSUMABLES)
+Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg)
+SKIP THE INCUBATION PERIOD (For Fertilized Egg Items)
+Apply change
+
+Create Blueprint or APKetype Item
+Make Blueprint (no premium) or ARKetype (premium item)
+Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources
+Apply change
+
+Other Items Option
+Use Durability (Disable Use got bug fill with water skin-jar, canteen)
+Do not consume Durability
+Force Drop Items
+
+* ENGRAM AND CRAFTING *
+ENGRAM AND CRAFTING
+Free Crafting
+Force Learn Engrams (Ignore Requires Engrams to learn)
+Speed Crafting
+
+* STRUCTURES HACK *
+Structure Options
+Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY
+Apply change
+
+* SHOP HACK *
+SHOP OPTIONS
+Unlock Store Items
+No of items on purchase (0: no chance)
+Amber Items Cost_OFF,Free,-100,-1000,Negative Cost
+FREE GET ITEMS
+Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item)
+Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant
+Apply change item
+
+* GLOBAL HACK *
+GAME MODE CONFIGURATIONS
+Has Ascendant Creature Unlock
+Primal Pass
+God Console
+Harvest Amount Multiplier
+Dino Revival Cost Scale
+Max Amber For Res From Dino
+Fishing Loot Quality Multiplier
+Taming Speed Multiplier
+Mating Interval Multiplier
+Egg Hatch Speed Multiplier
+Baby Mature Speed Multiplier
+Experience Rates
+Baby Imprinting Speed Scale
+Per Level Stats Multiplier Player
+Experience Boost From Buffs Rates
+
+
+GOD CONSOLE MENU (SP)
+Never Disable God Console
+God Mode - Immortal
+HEAL ALL
+Infinite Stats
+Advance Day
+Recolor Target
+Infinite Ammo
+Fly And Ghost Mode_OFF, Fly, Ghost
+Give Resources With Max Stack
+Give Resources Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl
+Give Resources
+
+UI AND SYSTEM OPTIONS
+Unlock Store Items
+Disable Play Spawn Intro
+Spawn Creatures Eery On World (Change at Main Menu)
+60fps and True Color Mode
+
+* OTHER HACK *
+Save And Load data
+Save Data (To Obb folder)
+Load Data (From Obb folder)

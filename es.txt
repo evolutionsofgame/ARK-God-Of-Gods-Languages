@@ -1,0 +1,455 @@
+UN JUGADOR + MULTIJUGADOR
+*ESP*
+Vista de distancia ESP
+ESP
+Jugadores
+Línea
+Cuadro
+Barra de Hp
+Nombre
+Dinosaurios ESP
+Estructuras ESP
+Camas ESP
+punto de mira
+Tamaño Texto Nombre
+Tamaño del cuadro (valor/2)
+Tamaño de la mira
+
+BOT DE PUNTERÍA
+Tipo de objetivo
+Parte de la puntería
+Tamaño de cabeza grande
+
+OPCIONES GLOBALES
+Velocidad global
+Campo de visión 1ra 
+Vista amplia 3ra
+Hora del día (0: Sin cambios)
+FPS del juego (30: sin cambios)
+Primal Pass
+Cambiar el color del objetivo
+Resucita a todos los inventores
+Modo Volar y Fantasma (SP y MP Visual)
+
+OPCIÓN DE MAZMORRA
+Ir a la mazmorra
+Guardar ranura de mazmorra actual
+Lista de mazmorras guardadas
+Ámbar gratuita para ir a la mazmorra
+Nombre de la mazmorra (por ejemplo: Sep22 Hootenanny)
+Ir a la mazmorra por nombre
+
+Pvp
+Recoger o demoler estructura
+Rango para recoger estructura
+Recoger con 1 click todo dentro del rango
+Recogida automática TODOS
+Permitir aplicar con estructuras de equipo
+Toma Dino por la fuerza o matar
+Rango para tomar criaturas
+Clic manual toma todas las criaturas dentro del rango
+Toma automáticamente todas las criaturas dentro del rango
+Disparas desde el dino 
+Ametralladora
+Giro instantáneo
+Sin influencia
+Ráfaga de bala
+disparar bajo el agua
+Munición infinita (pistola ametrallada)
+1 clic en subir de nivel (desbloquear notas)
+
+OPCIONES DE INVENTOR
+Inventor de todos los artículos
+Aplicar cambio
+
+AJUSTES AUTOMÁTICOS TORRETAS EERIE
+Estado
+Rango
+Advertencia
+Objetivos
+Poner de munición
+Aplicar en todas las torretas
+
+Equipamiento automático y consumible
+Armaduras de equipamiento automático
+Usar automáticamente los artículos consumibles
+Brebaje medicinal
+Brebaje energético
+Alimentación automática Carne y Curación de Dinos
+
+Spam de armas
+RPG Spam
+Disparo manual de cohetes
+
+Sesión de estilo
+Modo de disparo
+Tiro rápido
+Nº de cohete (valor x2)
+Disparo de torreta de cohetes de spam
+Disparo manual de torreta de cohetes
+
+Estructuras Libres
+Estructura Duplicada
+Intercambio de estructura
+Cambiar ID
+Colocación automática y vuelo
+
+Teletransportación de la cama
+Ir al punto de aparición aleatorio
+Teletranspórtate a la cama más cercana
+Guardar ubicación de la cama
+Las ranuras guardan la ubicación de la cama
+TP para guardar la ubicación de la cama
+Ingrese el ID de la cama (obtenga la identificación de la cama haciendo clic en Guardar ubicación de la cama)
+TP a la cama por ID de cama
+
+
+Personalizar color del jugador
+Cambiar el color del cuerpo
+Tasa de llenado del cuerpo
+Cambiar el color del cabello
+Tasa de relleno del cabello
+Cambiar el color de los ojos
+Tasa de llenado de ojos
+Aplicar cambio de color
+Carácter RGB
+Velocidad de color
+Herramienta de enlace Verificar ID
+ID de generación de estructuras
+ID de artículos
+Comando de administración
+ID de criaturas
+
+Únete a Discord para otras versiones
+Suscríbete al canal de youtube
+
+HACK SOLO PARA MULTIJUGADOR
+Guardar e iniciar sesión automática en el servidor
+Servidor de inicio de sesión
+Guardar ranuras de servidor
+Guardar servidor
+
+Opciones Globales (MP)
+Velocidad local
+Aspecto de raptor
+Suicidio
+Explosión automática
+Explosión manual
+1 Haga clic en Bloquear servidor
+
+Truco de chat
+Tipo de chat (mensaje rojo)
+Ocultar inicio de sesión
+Mensaje de spam
+
+Panel de administración
+Habilitar el control de administración con el botón Emotes (contraseña de administrador de inicio de sesión para el trabajo de control de administración)
+Habilite el menú de tiempo de teletransporte y salto con el botón Silbatos (inicie sesión con la contraseña de administrador para el trabajo de control de administración)
+Administrador falso
+
+COMANDO DE ADMINISTRACIÓN MULTIJUGADOR
+Obtener artículo
+ID del artículo
+Cantidad 
+Aplicar
+
+Obtener criatura
+ID de criatura
+Nivel
+Nivel salvaje y aleatorio
+Aplicar
+
+TELETRANSPORTE DEL JUGADOR
+Teletransportarse a
+Latitud personalizada (X)
+Longitud personalizada (Y)
+Coordenadas personalizadas (Z)
+Ubicación de guardado de ranura
+Aplicar cambio
+
+Comando de configuración
+Bebé de crecimiento instantáneo
+Destruye las estructuras de la tribu
+Destruye a los jugadores de la tribu
+Destruye a los dinosaurios de la tribu
+Obtener para mi
+Velocidad del mundo
+Modo de juego
+Hacer administrador de la tribu
+Hacer fundador de la tribu
+Toma toda la estructura de la tribu
+Llévate todos los dinosaurios de la tribu
+Forzar al jugador a unirse a la tribu objetivo
+Nombre de la tribu para unirse
+Apagar server
+Guardar server
+1 Haga clic en Bloquear servidor 
+Forzar sueño/despertar
+Establecer el color del dinosaurio objetivo
+Región
+Color ID
+Establecer la calidad de impresión
+Valor de impresión
+Estadísticas infinitas
+Nombre antiguo
+Nuevo nombre
+Cambiar el nombre del jugador/tribu
+Enemigo en visible
+¿Dónde está el ámbar?
+Teletransporte de la habitación 
+Al número de habitación
+Habitación Matar a todos
+Lista de jugadores
+Modo Dios
+Mejora de Gm
+Haz que llueva
+Ola de calor
+Modo de movimiento del jugador
+Establecer la hora del día
+Texto de tiempo. Ej: 14:30
+Regalo gratis
+Encuentra a Dino salvaje
+ID  de Criatura Para Encontrar
+Solicitud instantánea de dinosaurios
+Valor de la propiedad (>0)
+Aplicar el cambio a
+Domesticar la fuerza
+Domado automático por objetivo
+Compañero de fuerza
+Botón
+
+Comando de invocación
+Entrega automática a mí por objetivo
+Comando de invocación manual (todo el texto después de Summon)
+Aplicar
+
+Comando de invocación de acceso directo
+Replicador Tek
+Teletransportador Tek
+Cama Tek
+Rampa Tek
+Escalera Tek
+Pilar Tek
+Abrevadero Tek
+Puerta Tek
+Marco de puerta Tek
+Escalera Tek
+Barandilla Tek
+Cimentación de la valla Tek 
+Pared Tek
+Pared Tek inclinada a la derecha
+Pared Tek Inclinada Izquierda
+Techo Tek
+Ventana Tek
+Pared de ventana Tek
+Techo Tek
+Rampa Tek 
+LUZ Tek
+Piso Tek
+Generador Tek
+
+Comando de administración manual
+Texto del comando (todo el texto después de admincheat)
+Aplicar
+
+HACK PARA UN SOLO JUGADOR
+Opciones Globales (SP)
+Ámbar infinito, recursos, munición y artesanía gratuita
+Falso nivel 999
+Velocidad del jugador
+Daño cuerpo a cuerpo del jugador
+100% de probabilidad de que Noctis aparezca en el jefe de la mazmorra
+Destruye todas las criaturas
+
+*TELETRANSPORTAR*
+TELETRANSPORTE DEL JUGADOR
+Teletransportarse a
+Latitud personalizada (X)
+Longitud personalizada (Y)
+Coordenadas personalizadas (Z)
+Ubicación de guardado de ranura
+Aplicar cambio
+
+TELETRANSPORTE DE  ESTRUCTURA 
+Cambiar a todas las estructuras en el radio con Jugador: (>0)
+Aumenta o disminuye (valor + o -) Altura Z
+Aumenta o disminuye (+ o - valor) Y
+Aumenta o disminuye (+ o - valor) X
+Cambiar solo las estructuras con la misma altura Z
+Solo cambie las estructuras con la misma duración (0: Sin cambios)
+Mover al jugador Guardar ubicación
+Teletransportarse a la ubicación de guardado de la ranura
+Obtener estructuras de información
+Aplicar cambio
+
+* HACKEO DEL JUGADOR *
+Estadísticas personalizadas de los jugadores
+CAMBIAR DE NIVEL JUGADOR A
+SALUD MÁX (>100, 0 para infinito)
+RESISTENCIA MÁX (>100, 0 para infinito)
+OXÍGENO MÁX. (>100, 0 para infinito)
+COMIDA MÁX (>100, 0 para infinito)
+AGUA MÁX. (>100, 0 para infinito)
+PESO MÁX (>100, 0 para infinito)
+DAÑO CUERPO A CUERPO (>100, 0 para infinito)
+VELOCIDAD DE MOVIMIENTO (>100)
+FORTALEZA (>0, 0 para infinito)
+VELOCIDAD DE FABRICACIÓN (>100, 0 para infinito)
+TORPOR MÁX (>200,0 para infinito)
+Aplicar estadísticas de cambio
+
+* HACKEO DE CRIATURAS *
+Domesticar criaturas
+¿DOMESTICAION RÁPIDA?
+Seleccionar método Domesticar
+Teletransportar criatura al jugador
+
+Personalizar color de la criatura
+Valor rojo del cuerpo (R)
+Valor verde del cuerpo (G)
+Valor de Azul del Cuerpo (B)
+Valor rojo de los pies (R)
+Valor verde de los pies (G)
+Valor de los pies azules (B)
+Otras partes Valor rojo (R)
+Otras partes Valor verde (G)
+Otras partes Valor azul (B)
+Eliminar el color RPG
+Aplicar cambio de color
+
+Raza y mutación
+Cría forzada (Cría en cualquier momento)
+Impronta (aumenta las estadísticas de cualquier criatura, incluso no F1)
+Maduración (Forzar el crecimiento del bebé)
+Ningún tiempo puede aparearse (El tiempo de reinicio puede aparearse de la criatura)
+Aplicar cambio
+
+Propiedades de las criaturas
+CREAR CRIATURA SALVAJE
+CAMBIA DE GÉNERO Y VUELA CRIATURA
+CABALGATA DE FUERZA Y CRIATURA EERIE
+CRIATURA INVISIBLE Y DE RECOGIDA
+Aplicar cambio
+
+Criatura de propiedad especial personalizada
+Valor de la propiedad (>0)
+Aplicar el cambio 
+
+Criatura de nivel ilimitado
+¿HASTA QUÉ NIVEL DE CRIATURA? (>1)
+SALUD MÁX (Compruebe si prioriza los puntos de mejora aquí)
+RESISTENCIA MÁX(Compruebe si prioriza los puntos de mejora aquí)
+OXÍGENO MÁX (Compruebe si prioriza los puntos de mejora aquí)
+COMIDA MAX (Compruebe si prioriza los puntos de mejora aquí)
+PESO MÁXIMO (Compruebe si prioriza los puntos de mejora aquí)
+DAÑO CUERPO A CUERPO MÁX (Comprueba si priorizas los puntos de mejora aquí)
+LETARGO MAX (No me importa, cambio automático según el nivel de la criatura)
+Aplicar cambio
+
+STADÍSTICAS PERSONALIZADAS DE CRIATURAS
+VIDA MÁX(>1, 0 para infinito)
+RESISTENCIA MÁX(>1, 0 para infinito)
+OXÍGENO MÁX (>1, 0 para infinito)
+COMIDA MÁX (>1, 0 para infinito)
+PESO MÁX(>1, 0 para infinito)
+DAÑO CUERPO A CUERPO (>1, 0 para infinito)
+VELOCIDAD DE MOVIMIENTO (>1)
+TORPOR MÁX. (>200, 0 para infinito)
+CRIATURA DE EXPERIENCIA (>=0)
+Aplicar estadísticas de cambio
+
+Criaturas libres
+Ingresa el ID de la criatura aquí (reemplazar la criatura debe tener el ID de longitud más corto o igual al original)
+Cambiar el nivel de la criatura
+Reanimación de criaturas gratis
+Implante de tiempo de almacenamiento ilimitado
+Aplicar cambio
+
+* HACKEO DE OBJETOS Y EQUIPOS*
+Elementos de mejora
+Durabilidad infinita
+Armadura máxima
+Daño máximo
+Hipotermia e hipertermia máximas
+Cantidad: Arma con cargador de munición o armadura Fuel Tek (0: deshabilitar, obtener bugs, recargar munición con tirachinas y arcos)
+Máxima calidad
+Hacer un artículo premium
+Cantidad de artículo (úselo mejor con recursos)
+SIN DESCOMPONERSE (se usa mejor con los Recursos son CONSUMIBLES)
+¿Hacer súper croquetas/huevo? (Aumentar a Super croquetas / Huevo si el artículo es croquetas / Huevo)
+OMITIR EL PERÍODO DE INCUBACIÓN (para huevos fertilizados)
+Aplicar cambio
+
+Crear un elemento de plano o APKetype
+Hacer  PLANO (sin premium) o ARKetype (artículo premium)
+Escriba el elemento para cambiar
+Aplicar cambio
+
+Opción Otros artículos
+Durabilidad del uso (Deshabilitar el uso tiene relleno de insectos con agua, frasco de piel, cantimplora)
+No consumir Durabilidad
+Forzar la caída de objetos
+
+* ENGRAMA Y ELABORACIÓN *
+ENGRAMA Y ELABORACIÓN
+Elaboración gratuita
+Forzar el aprendizaje de engramas (ignorar requiere engramas para aprender)
+Elaboración rápida
+
+* HACKEO DE ESTRUCTURAS *
+Opciones de estructura
+Cambiar a
+Aplicar cambio
+
+* TRUCO DE LA TIENDA *
+OPCIONES DE COMPRA
+Desbloquea artículos de la tienda
+Nº de artículos en la compra (0: sin posibilidad)
+Coste de los objetos de ámbar
+OBTENER ARTÍCULOS GRATIS
+Ingrese el ID del artículo aquí (reemplace el consumible de suero adaptógeno menor por otro artículo)
+Calidad del artículo
+Aplicar elemento de cambio
+
+* HACKEO GLOBAL *
+CONFIGURACIONES DEL MODO DE JUEGO
+Tiene Desbloqueo de criatura ascendente
+Primal Pass
+God console
+Multiplicador de cantidad de cosecha
+Escala de coste de renacimiento de Dino 
+Max Ambar Para Resucitar Dino
+Multiplicador de calidad del botín de pesca
+Multiplicador de velocidad de domesticación
+Multiplicador de intervalo de apareamiento
+Multiplicador de velocidad de eclosión de huevos
+Multiplicador de velocidad de bebe madure
+Tarifas de experiencia
+Escala de velocidad de impresión para bebés
+Multiplicador de estadísticas por nivel Jugador
+Aumento de experiencia de las tasas de mejoras
+
+
+MENÚ DE LA CONSOLA DE DIOS (SP)
+Nunca desactives la consola de Dios
+Modo Dios - Inmortal
+SANAR A TODOS
+Estadísticas infinitas
+Día de Avance
+Cambiar el color del objetivo
+Munición infinita
+Modo Volar Y Fantasma
+Dar recursos con Max Stack
+Dar tipo de recursos
+Dar recursos
+
+OPCIONES DE INTERFAZ DE USUARIO Y SISTEMA
+Desbloquea artículos de la tienda
+Deshabilitar la introducción de reproducción
+Engendra criaturas eerie en el mundo (Cambiar en el menú principal)
+60 fps y modo de color verdadero
+
+* OTRO TRUCO *
+Guardar y cargar datos
+Guardar datos (en la carpeta Obb)
+Cargar datos (desde la carpeta Obb)
