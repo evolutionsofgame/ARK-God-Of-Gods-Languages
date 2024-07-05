@@ -1,455 +1,406 @@
-UN JUGADOR + MULTIJUGADOR
-*ESP*
-Vista de distancia ESP
-ESP
-Jugadores
-Línea
-Cuadro
-Barra de Hp
-Nombre
-Dinosaurios ESP
-Estructuras ESP
-Camas ESP
-punto de mira
-Tamaño Texto Nombre
-Tamaño del cuadro (valor/2)
-Tamaño de la mira
-
-BOT DE PUNTERÍA
-Tipo de objetivo
-Parte de la puntería
-Tamaño de cabeza grande
-
-OPCIONES GLOBALES
-Velocidad global
-Campo de visión 1ra 
-Vista amplia 3ra
-Hora del día (0: Sin cambios)
-FPS del juego (30: sin cambios)
-Primal Pass
-Cambiar el color del objetivo
-Resucita a todos los inventores
-Modo Volar y Fantasma (SP y MP Visual)
-
-OPCIÓN DE MAZMORRA
-Ir a la mazmorra
-Guardar ranura de mazmorra actual
-Lista de mazmorras guardadas
-Ámbar gratuita para ir a la mazmorra
-Nombre de la mazmorra (por ejemplo: Sep22 Hootenanny)
-Ir a la mazmorra por nombre
-
-Pvp
-Recoger o demoler estructura
-Rango para recoger estructura
-Recoger con 1 click todo dentro del rango
-Recogida automática TODOS
-Permitir aplicar con estructuras de equipo
-Toma Dino por la fuerza o matar
-Rango para tomar criaturas
-Clic manual toma todas las criaturas dentro del rango
-Toma automáticamente todas las criaturas dentro del rango
-Disparas desde el dino 
-Ametralladora
-Giro instantáneo
-Sin influencia
-Ráfaga de bala
-disparar bajo el agua
-Munición infinita (pistola ametrallada)
-1 clic en subir de nivel (desbloquear notas)
-
-OPCIONES DE INVENTOR
-Inventor de todos los artículos
-Aplicar cambio
-
-AJUSTES AUTOMÁTICOS TORRETAS EERIE
-Estado
-Rango
-Advertencia
-Objetivos
-Poner de munición
-Aplicar en todas las torretas
-
-Equipamiento automático y consumible
-Armaduras de equipamiento automático
-Usar automáticamente los artículos consumibles
-Brebaje medicinal
-Brebaje energético
-Alimentación automática Carne y Curación de Dinos
-
-Spam de armas
-RPG Spam
-Disparo manual de cohetes
-
-Sesión de estilo
-Modo de disparo
-Tiro rápido
-Nº de cohete (valor x2)
-Disparo de torreta de cohetes de spam
-Disparo manual de torreta de cohetes
-
-Estructuras Libres
-Estructura Duplicada
-Intercambio de estructura
-Cambiar ID
-Colocación automática y vuelo
-
-Teletransportación de la cama
-Ir al punto de aparición aleatorio
-Teletranspórtate a la cama más cercana
-Guardar ubicación de la cama
-Las ranuras guardan la ubicación de la cama
-TP para guardar la ubicación de la cama
-Ingrese el ID de la cama (obtenga la identificación de la cama haciendo clic en Guardar ubicación de la cama)
-TP a la cama por ID de cama
-
-
-Personalizar color del jugador
-Cambiar el color del cuerpo
-Tasa de llenado del cuerpo
-Cambiar el color del cabello
-Tasa de relleno del cabello
-Cambiar el color de los ojos
-Tasa de llenado de ojos
-Aplicar cambio de color
-Carácter RGB
-Velocidad de color
-Herramienta de enlace Verificar ID
-ID de generación de estructuras
-ID de artículos
-Comando de administración
-ID de criaturas
-
-Únete a Discord para otras versiones
-Suscríbete al canal de youtube
-
-HACK SOLO PARA MULTIJUGADOR
-Guardar e iniciar sesión automática en el servidor
-Servidor de inicio de sesión
-Guardar ranuras de servidor
-Guardar servidor
-
-Opciones Globales (MP)
-Velocidad local
-Aspecto de raptor
-Suicidio
-Explosión automática
-Explosión manual
-1 Haga clic en Bloquear servidor
-
-Truco de chat
-Tipo de chat (mensaje rojo)
-Ocultar inicio de sesión
-Mensaje de spam
-
-Panel de administración
-Habilitar el control de administración con el botón Emotes (contraseña de administrador de inicio de sesión para el trabajo de control de administración)
-Habilite el menú de tiempo de teletransporte y salto con el botón Silbatos (inicie sesión con la contraseña de administrador para el trabajo de control de administración)
-Administrador falso
-
-COMANDO DE ADMINISTRACIÓN MULTIJUGADOR
-Obtener artículo
-ID del artículo
-Cantidad 
-Aplicar
-
-Obtener criatura
-ID de criatura
-Nivel
-Nivel salvaje y aleatorio
-Aplicar
-
-TELETRANSPORTE DEL JUGADOR
-Teletransportarse a
-Latitud personalizada (X)
-Longitud personalizada (Y)
-Coordenadas personalizadas (Z)
-Ubicación de guardado de ranura
-Aplicar cambio
-
-Comando de configuración
-Bebé de crecimiento instantáneo
-Destruye las estructuras de la tribu
-Destruye a los jugadores de la tribu
-Destruye a los dinosaurios de la tribu
-Obtener para mi
-Velocidad del mundo
-Modo de juego
-Hacer administrador de la tribu
-Hacer fundador de la tribu
-Toma toda la estructura de la tribu
-Llévate todos los dinosaurios de la tribu
-Forzar al jugador a unirse a la tribu objetivo
-Nombre de la tribu para unirse
-Apagar server
-Guardar server
-1 Haga clic en Bloquear servidor 
-Forzar sueño/despertar
-Establecer el color del dinosaurio objetivo
-Región
-Color ID
-Establecer la calidad de impresión
-Valor de impresión
-Estadísticas infinitas
-Nombre antiguo
-Nuevo nombre
-Cambiar el nombre del jugador/tribu
-Enemigo en visible
-¿Dónde está el ámbar?
-Teletransporte de la habitación 
-Al número de habitación
-Habitación Matar a todos
-Lista de jugadores
-Modo Dios
-Mejora de Gm
-Haz que llueva
-Ola de calor
-Modo de movimiento del jugador
-Establecer la hora del día
-Texto de tiempo. Ej: 14:30
-Regalo gratis
-Encuentra a Dino salvaje
-ID  de Criatura Para Encontrar
-Solicitud instantánea de dinosaurios
-Valor de la propiedad (>0)
-Aplicar el cambio a
-Domesticar la fuerza
-Domado automático por objetivo
-Compañero de fuerza
-Botón
-
-Comando de invocación
-Entrega automática a mí por objetivo
-Comando de invocación manual (todo el texto después de Summon)
-Aplicar
-
-Comando de invocación de acceso directo
-Replicador Tek
-Teletransportador Tek
-Cama Tek
-Rampa Tek
-Escalera Tek
-Pilar Tek
-Abrevadero Tek
-Puerta Tek
-Marco de puerta Tek
-Escalera Tek
-Barandilla Tek
-Cimentación de la valla Tek 
-Pared Tek
-Pared Tek inclinada a la derecha
-Pared Tek Inclinada Izquierda
-Techo Tek
-Ventana Tek
-Pared de ventana Tek
-Techo Tek
-Rampa Tek 
-LUZ Tek
-Piso Tek
-Generador Tek
-
-Comando de administración manual
-Texto del comando (todo el texto después de admincheat)
-Aplicar
-
-HACK PARA UN SOLO JUGADOR
-Opciones Globales (SP)
-Ámbar infinito, recursos, munición y artesanía gratuita
-Falso nivel 999
-Velocidad del jugador
-Daño cuerpo a cuerpo del jugador
-100% de probabilidad de que Noctis aparezca en el jefe de la mazmorra
-Destruye todas las criaturas
-
-*TELETRANSPORTAR*
-TELETRANSPORTE DEL JUGADOR
-Teletransportarse a
-Latitud personalizada (X)
-Longitud personalizada (Y)
-Coordenadas personalizadas (Z)
-Ubicación de guardado de ranura
-Aplicar cambio
-
-TELETRANSPORTE DE  ESTRUCTURA 
-Cambiar a todas las estructuras en el radio con Jugador: (>0)
-Aumenta o disminuye (valor + o -) Altura Z
-Aumenta o disminuye (+ o - valor) Y
-Aumenta o disminuye (+ o - valor) X
-Cambiar solo las estructuras con la misma altura Z
-Solo cambie las estructuras con la misma duración (0: Sin cambios)
-Mover al jugador Guardar ubicación
-Teletransportarse a la ubicación de guardado de la ranura
-Obtener estructuras de información
-Aplicar cambio
-
-* HACKEO DEL JUGADOR *
-Estadísticas personalizadas de los jugadores
-CAMBIAR DE NIVEL JUGADOR A
-SALUD MÁX (>100, 0 para infinito)
-RESISTENCIA MÁX (>100, 0 para infinito)
-OXÍGENO MÁX. (>100, 0 para infinito)
-COMIDA MÁX (>100, 0 para infinito)
-AGUA MÁX. (>100, 0 para infinito)
-PESO MÁX (>100, 0 para infinito)
-DAÑO CUERPO A CUERPO (>100, 0 para infinito)
-VELOCIDAD DE MOVIMIENTO (>100)
-FORTALEZA (>0, 0 para infinito)
-VELOCIDAD DE FABRICACIÓN (>100, 0 para infinito)
-TORPOR MÁX (>200,0 para infinito)
-Aplicar estadísticas de cambio
-
-* HACKEO DE CRIATURAS *
-Domesticar criaturas
-¿DOMESTICAION RÁPIDA?
-Seleccionar método Domesticar
-Teletransportar criatura al jugador
-
-Personalizar color de la criatura
-Valor rojo del cuerpo (R)
-Valor verde del cuerpo (G)
-Valor de Azul del Cuerpo (B)
-Valor rojo de los pies (R)
-Valor verde de los pies (G)
-Valor de los pies azules (B)
-Otras partes Valor rojo (R)
-Otras partes Valor verde (G)
-Otras partes Valor azul (B)
-Eliminar el color RPG
-Aplicar cambio de color
-
-Raza y mutación
-Cría forzada (Cría en cualquier momento)
-Impronta (aumenta las estadísticas de cualquier criatura, incluso no F1)
-Maduración (Forzar el crecimiento del bebé)
-Ningún tiempo puede aparearse (El tiempo de reinicio puede aparearse de la criatura)
-Aplicar cambio
-
-Propiedades de las criaturas
-CREAR CRIATURA SALVAJE
-CAMBIA DE GÉNERO Y VUELA CRIATURA
-CABALGATA DE FUERZA Y CRIATURA EERIE
-CRIATURA INVISIBLE Y DE RECOGIDA
-Aplicar cambio
-
-Criatura de propiedad especial personalizada
-Valor de la propiedad (>0)
-Aplicar el cambio 
-
-Criatura de nivel ilimitado
-¿HASTA QUÉ NIVEL DE CRIATURA? (>1)
-SALUD MÁX (Compruebe si prioriza los puntos de mejora aquí)
-RESISTENCIA MÁX(Compruebe si prioriza los puntos de mejora aquí)
-OXÍGENO MÁX (Compruebe si prioriza los puntos de mejora aquí)
-COMIDA MAX (Compruebe si prioriza los puntos de mejora aquí)
-PESO MÁXIMO (Compruebe si prioriza los puntos de mejora aquí)
-DAÑO CUERPO A CUERPO MÁX (Comprueba si priorizas los puntos de mejora aquí)
-LETARGO MAX (No me importa, cambio automático según el nivel de la criatura)
-Aplicar cambio
-
-STADÍSTICAS PERSONALIZADAS DE CRIATURAS
-VIDA MÁX(>1, 0 para infinito)
-RESISTENCIA MÁX(>1, 0 para infinito)
-OXÍGENO MÁX (>1, 0 para infinito)
-COMIDA MÁX (>1, 0 para infinito)
-PESO MÁX(>1, 0 para infinito)
-DAÑO CUERPO A CUERPO (>1, 0 para infinito)
-VELOCIDAD DE MOVIMIENTO (>1)
-TORPOR MÁX. (>200, 0 para infinito)
-CRIATURA DE EXPERIENCIA (>=0)
-Aplicar estadísticas de cambio
-
-Criaturas libres
-Ingresa el ID de la criatura aquí (reemplazar la criatura debe tener el ID de longitud más corto o igual al original)
-Cambiar el nivel de la criatura
-Reanimación de criaturas gratis
-Implante de tiempo de almacenamiento ilimitado
-Aplicar cambio
-
-* HACKEO DE OBJETOS Y EQUIPOS*
-Elementos de mejora
-Durabilidad infinita
-Armadura máxima
-Daño máximo
-Hipotermia e hipertermia máximas
-Cantidad: Arma con cargador de munición o armadura Fuel Tek (0: deshabilitar, obtener bugs, recargar munición con tirachinas y arcos)
-Máxima calidad
-Hacer un artículo premium
-Cantidad de artículo (úselo mejor con recursos)
-SIN DESCOMPONERSE (se usa mejor con los Recursos son CONSUMIBLES)
-¿Hacer súper croquetas/huevo? (Aumentar a Super croquetas / Huevo si el artículo es croquetas / Huevo)
-OMITIR EL PERÍODO DE INCUBACIÓN (para huevos fertilizados)
-Aplicar cambio
-
-Crear un elemento de plano o APKetype
-Hacer  PLANO (sin premium) o ARKetype (artículo premium)
-Escriba el elemento para cambiar
-Aplicar cambio
-
-Opción Otros artículos
-Durabilidad del uso (Deshabilitar el uso tiene relleno de insectos con agua, frasco de piel, cantimplora)
-No consumir Durabilidad
-Forzar la caída de objetos
-
-* ENGRAMA Y ELABORACIÓN *
-ENGRAMA Y ELABORACIÓN
-Elaboración gratuita
-Forzar el aprendizaje de engramas (ignorar requiere engramas para aprender)
-Elaboración rápida
-
-* HACKEO DE ESTRUCTURAS *
-Opciones de estructura
-Cambiar a
-Aplicar cambio
-
-* TRUCO DE LA TIENDA *
-OPCIONES DE COMPRA
-Desbloquea artículos de la tienda
-Nº de artículos en la compra (0: sin posibilidad)
-Coste de los objetos de ámbar
-OBTENER ARTÍCULOS GRATIS
-Ingrese el ID del artículo aquí (reemplace el consumible de suero adaptógeno menor por otro artículo)
-Calidad del artículo
-Aplicar elemento de cambio
-
-* HACKEO GLOBAL *
-CONFIGURACIONES DEL MODO DE JUEGO
-Tiene Desbloqueo de criatura ascendente
-Primal Pass
-God console
-Multiplicador de cantidad de cosecha
-Escala de coste de renacimiento de Dino 
-Max Ambar Para Resucitar Dino
-Multiplicador de calidad del botín de pesca
-Multiplicador de velocidad de domesticación
-Multiplicador de intervalo de apareamiento
-Multiplicador de velocidad de eclosión de huevos
-Multiplicador de velocidad de bebe madure
-Tarifas de experiencia
-Escala de velocidad de impresión para bebés
-Multiplicador de estadísticas por nivel Jugador
-Aumento de experiencia de las tasas de mejoras
-
-
-MENÚ DE LA CONSOLA DE DIOS (SP)
-Nunca desactives la consola de Dios
-Modo Dios - Inmortal
-SANAR A TODOS
-Estadísticas infinitas
-Día de Avance
-Cambiar el color del objetivo
-Munición infinita
-Modo Volar Y Fantasma
-Dar recursos con Max Stack
-Dar tipo de recursos
-Dar recursos
-
-OPCIONES DE INTERFAZ DE USUARIO Y SISTEMA
-Desbloquea artículos de la tienda
-Deshabilitar la introducción de reproducción
-Engendra criaturas eerie en el mundo (Cambiar en el menú principal)
-60 fps y modo de color verdadero
-
-* OTRO TRUCO *
-Guardar y cargar datos
-Guardar datos (en la carpeta Obb)
-Cargar datos (desde la carpeta Obb)
+SINGLE PLAYER + MULTIPLAYER;JOGADOR ÚNICO + MULTIJOGADOR
+* ESP *;* ESP *
+Distance View ESP;Visualização de distância PES
+ESP;PES
+Players;Jogadoras
+Line;Linha
+Box;Caixa
+Hp Bar;Barra de HP
+Name;Nome
+Dinosaurs ESP;Dinossauros ESP
+Structures ESP;Estruturas ESP
+Beds ESP;Camas ESP
+Crosshair;Mira
+Size Text Name;Tamanho Nome do Texto
+Thickness Drawline (value/2);Desenho de espessura (valor/2)
+Crosshair size;Tamanho da mira
+AIMBOT;AIMBOT
+Aim Type_OFF, Magic Bullet (testing), Aimlock;Tipo de mira_desligado, Bala mágica (teste),Bloqueio de mira.
+Aim Part_Head, Chest, Legs;Mirar em Parte_Cabeça, Peito, Pernas".
+Big Head Size;Tamanho da Cabeça Grande".
+Global Options;Opções Globais".
+Global Speed;Velocidade Global
+Field Of View;Campo de Visão
+Wide View;Visão Ampliada
+Time Of Day (0: No change);Hora do Dia (0: Sem mudança)
+Game FPS (30: no change);FPS do Jogo (30: Sem mudança)
+Primal Pass;Passe Primal
+Recolor Target;Recolorir Alvo
+Resurrect Every Inventory;Ressuscitar Todo Inventário
+Fly And Ghost Mode (SP & Visual MP)_OFF, Fly, Ghost;Modo Voo e Fantasma (SP & MP Visual)_DESATIVADO, Voo, Fantasma
+Dungeon Option;Opção da Dungeon
+Go To Dungeon;Ir para a Dungeon
+Save Current Dungeon Slot;Salvar Slot Atual da Dungeon
+List Dungeon Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10;Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic, Slot 7, Slot 8, Slot 9, Slot 10
+Free Go To Dungeon Slot;Slot grátis para ir à masmorra
+Dungeon Name (Ex: Sep22 Hootenanny);Nome da masmorra (ex: Festa de 22 de setembro)
+Go To Dungeon By Name;Vá para a masmorra pelo nome
+PvP;PVP
+Force Pick or Demolish Structure_OFF, Pick, Demolish;Forçar Escolha ou Demolir Estrutura_OFF, Escolher, Demolir
+Range for Pickup;Faixa para coleta
+1 Click Pickup All in Range;1 Clique em Retirar tudo dentro do alcance
+Auto Pickup ALL;Recolha automática TODOS
+Allow Apply With Team Structures;Permitir inscrição com estruturas de equipe
+Force Take Dino or Kill_OFF, Force Take, Kill;Forçar Take Dino ou Kill_OFF, Forçar Take, Kill
+Range for Apply Creatures;Faixa para Aplicar Criaturas
+Manual Click Take All Creatures in Range;Clique manual para capturar todas as criaturas ao alcance
+Auto Take All Creatures in Range;Captura automática de todas as criaturas ao alcance
+Tame Shooting;Tiro domesticado
+Strafing;Metralhamento
+Instant turn;Turno instantâneo
+NoSway;Salvar slot de masmorra atual
+Bullet Burst;Explosão de bala
+Underwater Shooting;Tiro subaquático
+Infinite Ammo (Machined Pistol);Munição infinita (pistola usinada)
+1 Click Level Up (Unlock Notes);1 Clique em Level Up (desbloquear notas)
+Inventory Options;Opções de inventário
+All Items Inventory_Force Transfer To My Inventory, Force Transfer To Target Inventory, Force Drop All Target Inventory Owned;Inventário de todos os itens_Forçar transferência para meu estoque, Forçar transferência para estoque de destino, Forçar descarte de todo o estoque de destino de propriedade
+Apply Change;Aplicar alteração
+Auto Settings Eerie Turrets;Configurações automáticas Torres misteriosas
+State_Sleep, Active;State_Sleep, Ativo
+Range_Low, Medium, High;Faixa_Baixa, Média, Alta
+Warning_No Warning, 2 Seconds, 4 seconds;Aviso_Sem aviso, 2 segundos, 4 segundos
+Targets_All Targets, Player/Tamed, Only Players, Only Wild;Targets_All Targets, Jogador/Tamed, Somente Jogadores, Somente Selvagem
+No Ammo Push;Sem impulso de munição
+Apply Change All Turrets;Aplicar alteração em todas as torres
+Auto Equip And Consumable;Equipamento automático e consumíveis
+Auto Equip Armors;Equipar armaduras automaticamente
+Auto Use Consumable Items;Itens consumíveis de uso automático
+Medical Brew;Cerveja Médica
+Energy Brew;Cerveja Energética
+Auto Feed Meat Heal Dinos;Alimentação Automática de Carne Cura Dinos
+Weapon Spam;Spam de armas
+RPG Spam;Spam de RPG
+Manual Rocket Shoot;Disparo manual de foguete
+Style Shoot_Collateral, Cluster;Estilo Shoot_Collateral, Cluster
+Shooting mode_Simultaneous shooting, Sequential shooting;Modo de disparo_Disparo simultâneo, Disparo sequencial
+Speed shooting;Tiro rápido
+No of Rocket (value x2);Nº de foguete (valor x2)
+Spam Rocket Turret Shoot;Tiro de torre de foguete de spam
+Manual Rocket Turret Shoot;Tiro manual da torre de foguete
+Free Structures;Estruturas Livres
+Structure Dupe;Estrutura Duplicada
+Structure Swap;Troca de estrutura
+Change ID;Alterar ID
+Auto Placed and Fly;Colocado automaticamente e voa
+Bed Teleportation;Teletransporte de cama
+Go to Random Spawn Point;Vá para o ponto de desova aleatório
+Teleport To Nearest Bed;Teleporte para a cama mais próxima
+Save Bed Location;Salvar localização da cama
+Slots Save Bed Location;Slots salvam localização da cama
+TP to Save Bed Location;TP para salvar a localização da cama
+Enter BED ID (Get bed ID by Click Save Bed Location);Insira o ID da cama (obtenha a ID da cama clicando em Salvar local da cama)
+TP to Bed by Bed ID;TP para Cama por ID de Cama
+Custom Player Color;Cor personalizada do player
+Change Body Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Alterar cor do corpo_vermelho, verde, azul, amarelo, rosa, ciano, preto, branco
+Body Fill Rate;Taxa de preenchimento corporal
+Change Hair Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Alterar cor do cabelo_vermelho, verde, azul, amarelo, rosa, ciano, preto, branco
+Hair Fill Rate;Taxa de preenchimento de cabelo
+Change Eyes Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Alterar cor dos olhos_vermelho, verde, azul, amarelo, rosa, ciano, preto, branco
+Eyes Fill Rate;Taxa de preenchimento dos olhos
+Apply change color;Aplicar mudança de cor
+RGB Character;Caractere RGB
+Color Speed;Velocidade da cor
+Link Tool Check ID;ID de verificação da ferramenta de link
+Structures Spawn ID;ID de geração de estruturas
+Items ID;ID dos itens
+Admin Command;Comando administrativo
+Creatures ID;ID das criaturas
+Join Discord For Other Versions;Junte-se ao Discord para outras versões
+Subscribe to youtube channel;Inscreva-se no canal do youtube	how do i use the hacks?
+ONLY MULTIPLAYER HACK;SÓ HACK MULTIJOGADOR
+Save And Auto Login Server;Salvar e servidor de login automático
+Login Server;Servidor de login
+Save Server Slots_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5;Salvar Slots de Servidor_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5
+Save Server;Salvar servidor
+Global Options (MP);Opções Globais (MP)
+Local Speed;Velocidade Local
+Raptor Skin;Pele de Raptor
+Suicide;Suicídio
+Auto Explode;Explosão automática
+Manual Explode;Explosão manual
+1 Click Crash Server;1 Clique em Servidor de travamento
+Chat Hack;Hack de bate-papo
+Chat Type (Red Message)_OFF,Text,Notification,Announcement;Tipo de bate-papo (mensagem vermelha)_OFF,Texto,Notificação,Anúncio
+Hide Login;Ocultar login
+Spam Message;Mensagem de spam
+Admin Panel;Painel de administração
+Enable Admin Control with Emotes button (login admin password to admin control work);Ativar controle de administrador com botão Emotes (login de senha de administrador para trabalho de controle de administrador)
+Enable Teleport and Jump time menu with Whistles button (login admin password to admin control work);Habilite o menu Teleport e Jump time com o botão Whistles (login de senha de administrador para trabalho de controle de administrador)
+Fake Admin;Administrador falso
+ADMIN COMMAND MULTIPLAYER;MULTIJOGADOR DE COMANDO DE ADMINISTRADOR
+Get Item;Obter item
+Item ID;ID do item
+Amount;Quantia
+Apply;Aplicar
+Get Creature;Obter criatura
+Creature ID;ID da criatura
+Level;Nível
+Wild & Random Level;Nível selvagem e aleatório
+Apply;Aplicar
+PLAYER TELEPORT;TELEPORTE DO JOGADOR
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Teleporte para_Obelisco Verde, Obelisco Vermelho, Obelisco Azul, Montanha do Vulcão, Montanha Griffin, Ilha Herbívora, Ilha Canívora, Caverna no Sul, Câmara do Meio, Caverna de Lava, Noroeste Hollow, Caverna do Pântano, Caverna de Neve, Salvar Localização Atual, Vá para Salvar Localização, vá para o local personalizado com XYZ
+Custom Latitude (X);Latitude personalizada (X)
+Custom Longitude (Y);Longitude personalizada (Y)
+Custom Coordinates (Z);Coordenadas personalizadas (Z)
+Slot Save Location;Local de salvamento do slot
+Apply change;Aplicar alteração
+Setting Command;Comando de configuração
+Instant Grow Baby;Bebê Cresce Instantaneamente
+Destroy Tribe Structures;Destruir tribo Estruturas
+Destroy Tribe Players;Destrua jogadores da tribo
+Destroy Tribe Dinos;Destrua a tribo Dinos
+Give To  Me;Dê para mim
+Speed World;Mundo de velocidade
+Game Mode_OFF,PVE,PVP,PVX,PVX Clock;Modo de jogo_OFF,PVE,PVP,PVX,Relógio PVX
+Make Tribe Admin;Tornar administrador da tribo
+Make Tribe Founder;Torne-se fundador da tribo
+Take All Structure;Pegue toda a estrutura
+Take All Dino;Pegue todo o Dino
+Force Player To Join Target Tribe;Forçar o jogador a se juntar à tribo alvo
+Tribe Name For Join;Nome da tribo para ingressar
+Quit;Desistir
+Save World;Salve o mundo
+1 Click Crash Server;1 Clique em Servidor de travamento
+Force Sleep/WakeUp;Forçar suspensão/despertar
+Set Target Dino Color;Definir cor alvo do Dino
+Region_Wings,Body,Tuft and Legs,Brightness;Region_Wings, Corpo, Tufo e Pernas, Brilho
+Color ID;ID da cor
+Set Imprint Quality;Definir qualidade de impressão
+Imprint Value;Valor de impressão
+Infinite Stats;Estatísticas infinitas
+Old Name;Antigo nome
+New Name;Novo nome
+Rename Player/Tribe_OFF,Rename Player,Rename Tribe;Renomear Player/Tribe_OFF,Renomear Player,Renomear Tribo
+Enemy In Visible;Inimigo em Visível
+Where Is Amber;Onde está âmbar
+Room Teleport;Teletransporte de sala
+To Room Number;Para o número do quarto
+Room Kill All;Sala matar todos
+List Players;Lista de jogadores
+God;Deus
+GMBuff;GM Buff
+Make It Rain;Faça chover
+Heat Wave;Onda de calor
+Player Move Mode_Walk,Fly,Fly Fast,Ghost;Movimento do jogador Mode_Andar,Voar,Voar Rápido,Fantasma
+Set Time Of Day;Definir hora do dia
+Time Text. Ex: 14:30;Texto de tempo. Ex: 14:30
+Free Gift;Presente gratuito
+Find Wild Dino;Encontre Dino Selvagem
+ID Creature For Find;Criatura de identificação para encontrar
+Instant Dino Request;Solicitação Instantânea de Dino
+Value of Property (>0);Valor da Propriedade (>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;Aplicar alteração em_OFF, ESCALA DODO, EQUUS-UNICORN-NOCTIS POWER, CAPACIDADE DE MAMMOTH, TAMANHO DE PEIXE
+Force Tame;Forçar Domar
+Auto Tame By Target;Domar automaticamente por alvo
+Force Mate;Força companheiro
+Summon Command;Comando de convocação
+Auto Give To Me By Target;Dê-me automaticamente por destino
+Manual Summon command (all text after Summon );Comando Summon Manual (todo o texto após Summon )
+Apply;Aplicar
+Shortcut Summon Command;Comando de invocação de atalho
+Tek Replicator;Replicador Tek
+Tek Teleporter;Teletransportador Tek
+Tek Bed;Cama Tek
+Tek Ramp;Rampa Tek
+Tek Ladder;Escada Tecla
+Tek Pillar;Pilar Tek
+Tek Trough;Calha Tek
+Tek Door;Porta Tek
+Tek Door Frame;Moldura da porta Tek
+Tek Stairsm;Escada Tek
+Tek Railing;Trilhos Tek
+Tek Fence Foundation;Fundação Tek Fence
+Tek Wall;Parede Tek
+Tek Wall Sloped Right;Tek Parede  inclinada para a direita
+Tek Wall Sloped Left;Tek Parede inclinada para a esquerda
+Tek Roof;Telhado Tek
+Tek Window;Janela Tek
+Tek Window Wall;Parede da janela Tek
+Tek Ceiling;Teto Tek
+Tek Bp Rramp;Rampa Tek Bp
+Tek Light;Luz Tek
+Tek Floor;Piso Tek
+Tek Generator;Gerador Tek
+Manual Admin Command;Administração manual Comando
+Command text (All Text After Admincheat );Texto do comando (todo o texto após Admincheat)
+Apply;Aplicar
+ONLY SINGLE PLAYER HACK;APENAS HACK PARA UM JOGADOR
+Global Options (SP);Opções Globais (SP)
+Infinite Amber, Resources, Ammo & Free Crafting;Âmbar Infinito, Recursos, Munição e Fabricação Gratuita
+Fake Level 999;Nível Falso 999
+Player Speed;Velocidade do jogador
+Player Melee Damage;Dano corpo a corpo do jogador
+100% chance spawn Noctis in dungeon boss;100% de chance de gerar Noctis no chefe da masmorra
+Destroy All Creatures;Destrua todas as criaturas
+* TELEPORT *;TELEPORTE *
+PLAYER TELEPORT;TELEPORTE DO JOGADOR
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Teleporte para_Obelisco Verde, Obelisco Vermelho, Obelisco Azul, Montanha do Vulcão, Montanha Griffin, Ilha Herbívora, Ilha Canívora, Caverna no Sul, Câmara do Meio, Caverna de Lava, Noroeste Hollow, Caverna do Pântano, Caverna de Neve, Salvar Localização Atual, Vá para Salvar Localização, vá para o local personalizado com XYZ
+Custom Latitude (X);Latitude personalizada (X)
+Custom Longitude (Y);Longitude personalizada (Y)
+Custom Coordinates (Z);Coordenadas personalizadas (Z)
+Slot Save Location;Local de salvamento do slot
+Apply change;Aplicar alteração
+Teleport Structures;Estruturas de teletransporte
+Change to all structures in radius with Player: (>0);Mude para todas as estruturas no raio com Player: (>0)
+Increases or decreases (+ or - value) Height Z;Aumenta ou diminui o valor (+ ou -) Altura Z
+Increases or decreases (+ or - value) Y;Aumenta ou diminui o valor (+ ou -) Y
+Increases or decreases (+ or - value) X;Aumenta ou diminui o valor (+ ou -) X
+Only change structures with same height Z;Altera apenas estruturas com a mesma altura Z
+Only change structures with same Duration(0: Nochange);Alera apenas estruturas com a mesma Duração(0: Sem alteração )
+Move to player Save location;Mover para o jogador Salvar o local
+Teleport to Slot Save Location;Teleporte para o local de salvamento do slot
+Get Information Structues;Obter estruturas de informações
+Apply change;Aplicar alteração
+* PLAYER HACK *;HACK DO JOGADOR *
+Custom Player Stats;Estatísticas personalizadas do jogador
+CHANGE LEVEL PLAYER TO;MUDAR O NÍVEL DO JOGADOR PARA
+MAX HEALTH (>100, 0 for infinite);SAÚDE MÁXIMA (> 100, 0 para infinito)
+MAX STAMINA (>100, 0 for infinite);ESTAMINA MÁXIMA (> 100, 0 para infinito)
+MAX OXYGEN (>100, 0 for infinite);OXIGÊNIO MÁXIMO ( >100, 0 para infinito)
+MAX FOOD (>100, 0 for infinite);COMIDA MÁXIMA  (>100, 0 para infinito)
+MAX WATER (>100, 0 for infinite);AGUA MÁXIMA  (>100, 0 para infinito)
+MAX WEIGHT (>100, 0 for infinite);PEZO MÁXIMO  (>100, 0 para infinito)
+MELEE DAMAGE (>100, 0 for infinite);DANO CORPO A CORPO (>100, 0 para infinito) VELOCIDADE DE MOVIMENTO ( >100)
+MOVEMENT SPEED (>100);VELOCIDADE DE MOVIMENTO ( >100)
+FORTITUDE (>0, 0 for infinite);FORTITUDE (>0, 0 para infinito)
+CRAFTING SPEED (>100, 0 for infinite);VELOCIDADE DE CRAFTING (>100, 0 para infinito)
+MAX TORPOR (>200,0 for infinite);MAX TORPOR (>200,0 para infinito)
+Apply change stats;Aplicar estatísticas de mudança
+* CREATURES HACK *;*HACK DE CRIATURAS*
+Tame Creatures;Criaturas domesticadas
+FAST TAMING?;DOMÉSTICO RÁPIDO?
+Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food);Selecione o método Tame_OFF, Normal (nocautear e zerar comida), KIll Creature e obter implante, Passive Tame (trabalho para todas as criaturas), Force Tame (Domesticado sem necessidade de comida)
+Teleport Creature to Player;Teleporte a criatura para o jogador
+Custom Color Creatures;Cor customizada das Criaturas
+Body Red Value (R);Valor Vermelho Corporal (R)
+Body Green Value (G);Valor Verde Corporal (G)
+Body Blue Value (B);Valor Azul do Corpo (B)
+Feet Red Value (R);Valor Vermelho dos Pés (R)
+Feet Green Value (G);Valor Verde dos Pés (G)
+Feet Blue Value (B);Valor Azul dos Pés (B)
+Other Parts Red Value (R);Valor vermelho de outras peças (R)
+Other Parts Green Value (G);Outras peças Valor verde (G)
+Other Parts Blue Value (B);Valor azul de outras peças (B)
+Remove RPG Color;Remover cor do RPG
+Apply change Color;Aplicar mudança de cor
+Breed And Mutation;Raça e mutação
+Force Breeding (Breeding anytime);Forçar reprodução (reprodução a qualquer momento)
+Imprinting (increase stats for any creatures even no F1);Imprinting (aumentar estatísticas para qualquer criatura, mesmo sem F1)
+Maturation (Force Grow Baby);Maturação (Forçar crescimento do bebê)
+No Time Can Mate (Reset time Can Mate of creature);Nenhum tempo pode acasalar (Redefinir o tempo pode acasalar a criatura)
+Apply change;Aplicar alteração
+Creatures Properties;Propriedades das criaturas
+MAKE WILD CREATURE;FAÇA CRIATURA SELVAGEM
+CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature;MUDE DE GÊNERO E VOE CREATURE_OFF,FeMale,Macho, Criatura Mosca
+FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE;EQUITAÇÃO FORÇADA E CRIATURA ASSUSTADORA_DESLIGADA, EQUITAÇÃO FORÇADA, CRIATURA ASSUSTADORA
+INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE;INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Torna qualquer criatura invisível como domesticada em cavernas),PICKUP CREATURE
+Apply change;Aplicar alteração
+Custom Special Property Creature;Criatura de propriedade especial personalizada
+Value of Property (>0);Valor da Propriedade (>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;Aplicar alteração em_OFF, ESCALA DODO, EQUUS-UNICORN-NOCTIS POWER, CAPACIDADE DE MAMMOTH, TAMANHO DE PEIXE
+Unlimited Level Creature;Criatura de nível ilimitado
+WHAT CREATURE LEVEL UP TO? (>1);ATÉ QUE NÍVEL DE CRIATURA? (>1)
+MAX HEALTH (Check if prioritize upgrade points here);VIDA MAXIMA (Marque se prioriza pontos de atualização aqui)
+MAX STAMINA (Check if prioritize upgrade points here);ETAMINA MAXIMA (Marque se prioriza pontos de atualização aqui)
+MAX OXYGEN (Check if prioritize upgrade points here);OXYGENIO MAXIMO(Marque se prioriza pontos de atualização aqui)
+MAX FOOD (Check if prioritize upgrade points here);COMIDA MAXIMA (Marque se prioriza pontos de atualização aqui)
+MAX WEIGHT (Check if prioritize upgrade points here);PESO MAXIMO (Marque se prioriza pontos de atualização aqui)
+MAX MELEE DAMAGE (Check if prioritize upgrade points here);DANO MAXIMO (Verifique se priorizar pontos de atualização aqui)
+MAX TORPOR (Don't care, Auto change by creature's level);TORPOR MAXIMO
+Apply change;Aplicar alteração
+Custom Stats Creature;Estatísticas personalizadas da Criatura
+MAX HEALTH (>1, 0 for infinite);SAÚDE MÁXIMA (>1, 0 para infinito)
+MAX STAMINA (>1, 0 for infinite);ENERGIA MÁXIMA (>1, 0 para infinito)
+MAX OXYGEN (>1, 0 for infinite);OXIGÊNIO MÁXIMO (>1, 0 para infinito)
+MAX FOOD (>1, 0 for infinite);COMIDA MÁXIMA (>1, 0 para infinito)
+MAX WEIGHT (>1, 0 for infinite);PESO MÁXIMO (>1, 0 para infinito)
+MELEE DAMAGE (>1, 0 for infinite);DANO CORPO A CORPO (>1, 0 para infinito)
+MOVEMENT SPEED (>1);VELOCIDADE DE MOVIMENTO (>1)
+MAX TORPOR (>200, 0 for infinite);MAX TORPOR (>200, 0 para infinito)
+EXPERIENCE CREATURE (>=0);EXPERIENCE CREATURE (>=0)
+Apply change stats;Aplicar alteração de estatísticas
+Free Creatures;Criaturas Grátis
+Enter Creature Id Here (Replace Creature must have lenght ID shorter or equal original);Insira o ID da criatura aqui (a substituição da criatura deve ter um ID de comprimento menor ou igual ao original)
+Change Level Of Creature;Alterar o nível da criatura
+Free Creature Revival;Reavivamento Gratuito de Criaturas
+Unlimited storage time implant;Implante com tempo de armazenamento ilimitado
+Apply change;Aplicar alteração
+* ITEMS AND EQUIPMENTS HACK*;* HACK DE ITENS E EQUIPAMENTOS *
+Upgrade Items;Atualizar itens
+Infinite Durability;Durabilidade infinita
+Max Armor;Armadura Máxima
+Max Damage;Dano máximo
+Max Hypothermic and Hyperthermic;Max hipotérmico e hipertérmico
+Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows);Quantidade de arma Munmo Clip ou Fuel Tek Armor (0: desativar, obter bugs, recarregar munição com estilingue e arcos)
+Max Quality;Qualidade máxima
+Make Premium Item;Faça item premium
+Quantity Of Item (use better with Resources);Quantidade de item (use melhor com recursos)
+NO SPOILS (use better with Resources are CONSUMABLES);SEM SPOILS (use melhor com Recursos CONSUMÍVEIS)
+Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg);Fazer Super Ração/Ovo? (Atualize para Super ração/Ovo se o item for ração/Ovo)
+SKIP THE INCUBATION PERIOD (For Fertilized Egg Items);PULAR O PERÍODO DE INCUBAÇÃO (para itens de ovo fertilizado)
+Apply change;Aplicar alteração
+Create Blueprint or APKetype Item;Criar item Blueprint ou APKetype
+Make Blueprint (no premium) or ARKetype (premium item);Faça Blueprint (sem premium) ou ARKetype (item premium)
+Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources;Digite Item para Change_Armors, Armas Corpo a Corpo, Armas de Alcance, Selas, Estrutura, Recursos
+Apply change;Aplicar alteração
+Other Items Option;Opção de outros itens
+Use Durability (Disable Use got bug fill with water skin-jar, canteen);Usar Durabilidade (Desativar Usar preenchimento de insetos com jarro de água, cantina)
+Do not consume Durability;Não consuma Durabilidade
+Force Drop Items;Forçar queda de itens
+* ENGRAM AND CRAFTING *;ENGRAMA E CRAFTING *
+ENGRAM AND CRAFTING;ENGRAMA E CRAFTING
+Free Crafting;Elaboração livre
+Force Learn Engrams (Ignore Requires Engrams to learn);Forçar engramas de aprendizado (ignorar requer engramas para aprender)
+Speed Crafting;Criação rápida
+* STRUCTURES HACK *;HACK DE ESTRUTURAS*
+Structure Options;Opções de estrutura
+Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY;Alterar para_OFF, DURAÇÃO DE ESTRUTURA INFINITA, ALTURA ILIMITADA, PLATAFORMA DE ELEVADOR DE PESO ILIMITADO, ARMAZENAMENTO DE SLOTS ILIMITADO (Vault-Storage Box-Grande Storage Box-Storage Chest-Geladeira-Tek Trough-BookShelf), PLATAFORMA DE SELA ILIMITADA (alvo na criatura com plataforma de sela para ativo), ELETRICIDADE ILIMITADA
+Apply change;Aplicar alteração
+* SHOP HACK *;HACK DE LOJA*
+SHOP OPTIONS;OPÇÕES DE LOJA
+Unlock Store Items;Desbloquear itens da loja
+No of items on purchase (0: no chance);Nº de itens na compra (0: sem chance)
+Amber Items Cost_OFF,Free,-100,-1000,Negative Cost;Âmbar Itens Cost_OFF, Grátis, -100, -1000, Custo Negativo
+FREE GET ITEMS;OBTENHA ITENS GRATUITAMENTE
+Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item);Insira o ID do item aqui (substitua o consumível menor de soro adaptogênico por outro item)
+Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant;Qualidade do Item_Primitiva, Desorganizada, Aprendiz, Jornada, Obra-prima, Ascendente
+Apply change item;Aplicar item de alteração
+* GLOBAL HACK *;*HACK GLOBAL*
+GAME MODE CONFIGURATIONS;CONFIGURAÇÕES DO MODO DE JOGO
+Has Ascendant Creature Unlock;Tem desbloqueio de criatura ascendente
+Primal Pass;Passe Primordial
+God Console;Console de Deus
+Harvest Amount Multiplier;Multiplicador de valor de colheita
+Dino Revival Cost Scale;Escala de custo do reavivamento do Dino
+Max Amber For Res From Dino;Max Amber Para Res De Dino
+Fishing Loot Quality Multiplier;Multiplicador de qualidade de saque de pesca
+Taming Speed Multiplier;Multiplicador de velocidade de domesticação
+Mating Interval Multiplier;Multiplicador de intervalo de acasalamento
+Egg Hatch Speed Multiplier;Multiplicador de velocidade de eclosão de ovos
+Baby Mature Speed Multiplier;Multiplicador de velocidade para bebês maduros
+Experience Rates;Taxas de experiência
+Baby Imprinting Speed Scale;Escala de velocidade de impressão de bebês
+Per Level Stats Multiplier Player;Jogador multiplicador de estatísticas por nível
+Experience Boost From Buffs Rates;Aumento de experiência com taxas de bônus
+GOD CONSOLE MENU (SP);MENU DO CONSOLE DE DEUS (SP)
+Never Disable God Console;Nunca desative o console de Deus
+God Mode - Immortal;Modo Deus - Imortal
+HEAL ALL;CURAR TUDO
+Infinite Stats;Estatísticas infinitas
+Advance Day;Dia de Avanço
+Recolor Target;Recolorir alvo
+Infinite Ammo;Munição infinita
+Fly And Ghost Mode_OFF, Fly, Ghost;Modo Voar e Fantasma_OFF, Voar, Fantasma
+Give Resources With Max Stack;Forneça recursos com Max Stack
+Give Resources Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl;Fornece recursos Type_Silica Pérolas, palha, fibra, sangue de sanguessuga, seiva, metal, carvão, AnglerGel, pó de faísca, óleo, obsidiana, pele, lingote de metal, pedra, madeira, couro, cristal, gasolina, pasta de cimentação, quitina, eletrônicos, sílex, Polímero, Bio Toxina, Pérola Negra
+Give Resources;Dê recursos
+UI AND SYSTEM OPTIONS;OPÇÕES DE UI E SISTEMA
+Unlock Store Items;Desbloquear itens da loja
+Disable Play Spawn Intro;Desativar introdução do Play Spawn
+Spawn Creatures Eery On World (Change at Main Menu);Spawn Creatures Eery On World (mudança no menu principal)
+60fps and True Color Mode;60fps e modo True Color
+* OTHER HACK *;*OUTRO HACK*
+Save And Load data;Salvar e carregar dados
+Save Data (To Obb folder);Salvar dados (para a pasta Obb)
+Load Data (From Obb folder);Carregar dados (da pasta Obb)
