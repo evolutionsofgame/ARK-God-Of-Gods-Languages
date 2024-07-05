@@ -1,0 +1,405 @@
+SINGLE PLAYER + MULTIPLAYER;OFFLINE + ONLINE
+* ESP *;* ĐỊNH VỊ *
+Distance View ESP;Distance View ESP
+ESP;ESP
+Players;Người Chơi
+Line;Line
+Box;Hòm
+Hp Bar;Thanh Máu
+Name;Tên
+Dinosaurs ESP;Định Vị Khủng Long
+Structures ESP;Định Vị Công Trình
+Beds ESP;Định vị giường
+Crosshair;Gim tâm chuẩn
+Size Text Name;Kích Thước Tên
+Thickness Drawline (value/2);Thickness Drawline (value/2)
+Crosshair size;Crosshair size
+AIMBOT;AIMBOT
+Aim Type_OFF, Magic Bullet (testing), Aimlock;Aim Type_OFF, Magic Bullet thử nghiệm, Aim khoá
+Aim Part_Head, Chest, Legs;Aim Part_đầu, thân, chân
+Big Head Size;Đầu To
+Global Options;Global Options
+Global Speed;tốc độ thế giới
+Field Of View;tầm nhìn
+Wide View;nhìn xa
+Time Of Day (0: No change);Chỉnh Ngày Đêm (0: Không thay đổi)
+Game FPS (30: no change);chỉnh FPS(30: no change)
+Primal Pass;VIP
+Recolor Target;chỉnh màu
+Resurrect Every Inventory;Resurrect Every Inventory
+Fly And Ghost Mode (SP & Visual MP)_OFF, Fly, Ghost;Fly And Ghost Mode (SP & Visual MP)_OFF, bay, bay xuyên tường
+Dungeon Option;Chức Năng Hầm Ngục
+Go To Dungeon;Đi đến Hầm Ngục
+Save Current Dungeon Slot;Lưu vị trí Hầm Ngục hiện tại
+List Dungeon Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10;List Dungeon Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10
+Free Go To Dungeon Slot;Free đi Dungeon
+Dungeon Name (Ex: Sep22 Hootenanny);Dungeon Name (Ex: Sep22 Hootenanny)
+Go To Dungeon By Name;Đi đến hầm ngục bằng tên
+PvP;PvP
+Force Pick or Demolish Structure_OFF, Pick, Demolish;Buộc chọn hoặc phá hủy cấu trúc TẮT, lấy, phá
+Range for Pickup;Range for Pickup
+1 Click Pickup All in Range;1 Click phá tất cả
+Auto Pickup ALL;Auto phá
+Allow Apply With Team Structures;Allow Apply With Team Structures
+Force Take Dino or Kill_OFF, Force Take, Kill;Buộc lấy Dino hoặc Giết TẮT, Buộc lấy, Giết
+Range for Apply Creatures;phạm vi phá
+Manual Click Take All Creatures in Range;Manual Click Take All Creatures in Range
+Auto Take All Creatures in Range;Tự động bắt tất cả sinh vật trong phạm vi
+Tame Shooting;Chế ngự bắn súng
+Strafing;Căng thẳng
+Instant turn;Chuyển hướng ngay lập tức
+NoSway;Không lắc lư
+Bullet Burst;đạn nổ
+Underwater Shooting;bắn súng dưới nước
+Infinite Ammo (Machined Pistol);Vô hạn đạn (Machined Pistol)
+1 Click Level Up (Unlock Notes);1 Click tăng Level (Mở khóa Notes)
+Inventory Options;Chức năng kho đồ
+All Items Inventory_Force Transfer To My Inventory, Force Transfer To Target Inventory, Force Drop All Target Inventory Owned;chộm đồ, chả lại, Vứt tất cả
+Apply Change;Áp dụng thay đổi
+Auto Settings Eerie Turrets;Tự động chỉnh sửa Turrets 7M
+State_Sleep, Active;State_Sleep, Active
+Range_Low, Medium, High;Phạm Vi_Thấp, Trung bình, Cao
+Warning_No Warning, 2 Seconds, 4 seconds;Cảnh báo_Không cảnh báo, 2 giây, 4 giây
+Targets_All Targets, Player/Tamed, Only Players, Only Wild;Mục Tiêu_Tất cả mục tiêu, Người chơi/thú tame, Người chơi, Khủng Long hoang dã
+No Ammo Push;Không đẩy đạn
+Apply Change All Turrets;Áp dụng thay đổi cho tất cả
+Auto Equip And Consumable;Auto thay giáp và uống máu
+Auto Equip Armors;Auto thay giáp
+Auto Use Consumable Items;Tự động sử dụng sức chịu đựng của tôi
+Medical Brew;Bia y tế
+Energy Brew;Bia năng lượng
+Auto Feed Meat Heal Dinos;Tự động đút thịt cho khủng long
+Weapon Spam;Spam đạn vũ khí
+RPG Spam;spam rocket
+Manual Rocket Shoot;spam rocket bắn tay
+Style Shoot_Collateral, Cluster;Style Shoot_Collateral, Cluster
+Shooting mode_Simultaneous shooting, Sequential shooting;Shooting mode_Simultaneous shooting, Sequential shooting
+Speed shooting;Speed shooting
+No of Rocket (value x2);No of Rocket (value x2)
+Spam Rocket Turret Shoot;Spam Rocket Turret Shoot
+Manual Rocket Turret Shoot;Manual Rocket Turret Shoot
+Free Structures;Chức năng công trình
+Structure Dupe;Structure Dupe
+Structure Swap;dupe struc id
+Change ID;nhập id structure
+Auto Placed and Fly;Auto fly struc(ấn nút đấm để spam)
+Bed Teleportation;Teleportation giường
+Go to Random Spawn Point;ramdom tele điểm hồi sinh
+Teleport To Nearest Bed;Teleport To Nearest Bed
+Save Bed Location;lưu giường
+Slots Save Bed Location;Slots Save Bed Location
+TP to Save Bed Location;TP to Save Bed Location
+Enter BED ID (Get bed ID by Click Save Bed Location);Enter BED ID (Get bed ID by Click Save Bed Location)
+TP to Bed by Bed ID;TP to Bed by Bed ID
+Custom Player Color;Tùy chỉnh màu người chơi
+Change Body Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Change Body Color_đỏ,xanh lá,xanh biển,vàng, hồng, Cyan, đen, trắng
+Body Fill Rate;Body Fill Rate
+Change Hair Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Change Hair Color_đỏ,xanh lá,xanh biển,vàng, hồng, Cyan, đen, trắng
+Hair Fill Rate;Hair Fill Rate
+Change Eyes Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Change Eyes Color_đỏ,xanh lá,xanh biển,vàng, hồng, Cyan, đen, trắng
+Eyes Fill Rate;Eyes Fill Rate
+Apply change color;sử dụng màu
+RGB Character;7 màu🏳️‍🌈
+Color Speed;tốc đọ màu chạy
+Link Tool Check ID;Link Tool Check ID
+Structures Spawn ID;Structures Spawn ID
+Items ID;Items ID
+Admin Command;code adm ở đây
+Creatures ID;id struc dupe
+Join Discord For Other Versions;Tham gia Discord cho các phiên bản khác
+Subscribe to youtube channel;Đăng ký kênh youtube
+ONLY MULTIPLAYER HACK;hack online
+Save And Auto Login Server;lưu và auto lưu server
+Login Server;Login Server
+Save Server Slots_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5;Save Server Slots_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5
+Save Server;Save Server
+Global Options (MP);tùy chỉnh thế giới
+Local Speed;tốc độ thế giới
+Raptor Skin;spam Raptor Skin
+Suicide;tự tử
+Auto Explode;Auto kill (ko bật khi pvp)
+Manual Explode;Manual Explode
+1 Click Crash Server;roll server(spawn ấn vào)
+Chat Hack;Chat Hack
+Chat Type (Red Message)_OFF,Text,Notification,Announcement;Chat Type (Red Message)_OFF,Text,thông báo,chữ đỏ
+Hide Login;ẩn đang nhập
+Spam Message;Spawn Message
+Admin Panel;ADMIN
+Enable Admin Control with Emotes button (login admin password to admin control work);Chức Năng Code Piximv ( sài nút mặt cười để bật menu)
+Enable Teleport and Jump time menu with Whistles button (login admin password to admin control work);tele( 2 trức năng trên cần pass adm thật để sử dụng )
+Fake Admin;Fake Admin God Console
+ADMIN COMMAND MULTIPLAYER;Yêu Cầu Nhập Pass ADMIN Để Dùng
+Get Item;Get Item
+Item ID;Item ID
+Amount;Amount
+Apply;Apply
+Get Creature;Nhận sinh vật
+Creature ID;ID sinh vật
+Level;Level
+Wild & Random Level;Cấp độ hoang dã & ngẫu nhiên
+Apply;Áp dụng
+PLAYER TELEPORT;PLAYER TELEPORT
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Teleport To_trụ xanh,trụ đỏ,trụ  trắng,núi lửa,núi Griffin, đảo cỏ , đảo ăn thịt, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Custom Latitude (X);Vĩ độ tùy chỉnh (X)
+Custom Longitude (Y);Kinh độ tùy chỉnh (Y)
+Custom Coordinates (Z);Tọa độ tùy chỉnh (Z)
+Slot Save Location;Slot Save Location
+Apply change;Áp dụng thay đổi
+Setting Command;1click sài code
+Instant Grow Baby;Baby Lớn Nhanh
+Destroy Tribe Structures;Phá Hủy All struc tribe
+Destroy Tribe Players;Giết all thành viên tribe
+Destroy Tribe Dinos;Giết tất cả thú tribe
+Give To  Me;lấy
+Speed World;chỉnh tốc độ thế giới
+Game Mode_OFF,PVE,PVP,PVX,PVX Clock;chỉnh_OFF,PVE,PVP,PVX,PVX Clock
+Make Tribe Admin;Buộc Bạn Lên Chức ADMIN Tribe
+Make Tribe Founder;Buộc Bạn Lên Chức Quản Trị Viên Tribe
+Take All Structure;Lấy tất cả Structure
+Take All Dino;Lấy tất cả Dino
+Force Player To Join Target Tribe;Đột Nhập Tribe
+Tribe Name For Join;Nhập Tên Tribe để tham gia
+Quit;khỏi động server
+Save World;Save World
+1 Click Crash Server;roll server
+Force Sleep/WakeUp;Force Sleep/WakeUp
+Set Target Dino Color;chỉnh màu thú
+Region_Wings,Body,Tuft and Legs,Brightness;Region_Wings,Body,Tuft and Legs,Brightness
+Color ID;Color ID
+Set Imprint Quality;chỉnh imp thú
+Imprint Value;Imprint Value
+Infinite Stats;Infinite Stats
+Old Name;Old Name
+New Name;New Name
+Rename Player/Tribe_OFF,Rename Player,Rename Tribe;Rename Player/Tribe_OFF,Rename Player,Rename Tribe
+Enemy In Visible;tàn hình trước thú
+Where Is Amber;Where Is Amber
+Room Teleport;Room Teleport
+To Room Number;To Room Number
+Room Kill All;Room Kill All
+List Players;List Players
+God;God
+GMBuff;GMBuff
+Make It Rain;Make It Rain
+Heat Wave;Heat Wave
+Player Move Mode_Walk,Fly,Fly Fast,Ghost;Player Move Mode_Walk,Fly,Fly Fast,Ghost
+Set Time Of Day;Set Time Of Day
+Time Text. Ex: 14:30;Time Text. Ex: 14:30
+Free Gift;Free Gift
+Find Wild Dino;Tìm Dino hoang dã
+ID Creature For Find;ID Creature For Find
+Instant Dino Request;Instant Dino Request
+Value of Property (>0);Value of Property (>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;Tăng size to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
+Force Tame;Force Tame
+Auto Tame By Target;Auto Tame By Target
+Force Mate;Bắt Buộc Đẻ Nhanh
+Summon Command;Lệnh triệu hồi
+Auto Give To Me By Target;Tự động đưa cho tôi theo mục tiêu
+Manual Summon command (all text after Summon );Lệnh Triệu hồi Thủ công (tất cả nội dung sau khi Triệu hồi)
+Apply;Áp Dụng Lệnh
+Shortcut Summon Command;Lệnh triệu hồi Command
+Tek Replicator;Tek Replicator
+Tek Teleporter;Tek Teleporter
+Tek Bed;Tek Bed
+Tek Ramp;Tek Ramp
+Tek Ladder;Tek Ladder
+Tek Pillar;Tek Pillar
+Tek Trough;Tek Trough
+Tek Door;Tek Door
+Tek Door Frame;Tek Door Frame
+Tek Stairsm;Tek Stairsm
+Tek Railing;Tek Railing
+Tek Fence Foundation;Tek Fence Foundation
+Tek Wall;Tek Wall
+Tek Wall Sloped Right;Tek Wall Sloped Right
+Tek Wall Sloped Left;Tek Wall Sloped Left
+Tek Roof;Tek Roof
+Tek Window;Tek Window
+Tek Window Wall;Tek Window Wall
+Tek Ceiling;Tek Ceiling
+Tek Bp Rramp;Tek Bp Rramp
+Tek Light;Tek Light
+Tek Floor;Tek Floor
+Tek Generator;Tek Generator
+Manual Admin Command;Lệnh Admin Command
+Command text (All Text After Admincheat );Nhập Code (All Text After Admincheat )
+Apply;Áp Dụng
+ONLY SINGLE PLAYER HACK;Chế Độ Offline
+Global Options (SP);Global Options (SP)
+Infinite Amber, Resources, Ammo & Free Crafting;vô hạn Amber, Tài nguyên, Đạn & Chế tạo miễn phí
+Fake Level 999;Fake Level 999
+Player Speed;tốc độ
+Player Melee Damage;Player Melee Damage
+100% chance spawn Noctis in dungeon boss;1200% ra noctis khi đi dungeon
+Destroy All Creatures;Tiêu diệt mọi sinh vật
+* TELEPORT *;* TELEPORT *
+PLAYER TELEPORT;PLAYER TELEPORT
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Custom Latitude (X);Custom Latitude (X)
+Custom Longitude (Y);Custom Longitude (Y)
+Custom Coordinates (Z);Custom Coordinates (Z)
+Slot Save Location;Slot Save Location
+Apply change;Áp dụng thay đổi
+Teleport Structures;Teleport Structures
+Change to all structures in radius with Player: (>0);Thay đổi tất cả các công trình trong bán kính bằng Player: (>0)
+Increases or decreases (+ or - value) Height Z;Tăng hoặc giảm giá trị (+ hoặc -) Chiều cao Z
+Increases or decreases (+ or - value) Y;Tăng hoặc giảm (+ hoặc - giá trị) Y
+Increases or decreases (+ or - value) X;Tăng hoặc giảm (+ hoặc - giá trị) X
+Only change structures with same height Z;Chỉ thay đổi cấu trúc có cùng chiều cao Z
+Only change structures with same Duration(0: Nochange);Only change structures with same Duration(0: Nochange)
+Move to player Save location;Move to player Save location
+Teleport to Slot Save Location;Dịch chuyển đến vị trí lưu vị trí
+Get Information Structues;Get Information Structues
+Apply change;Áp dụng thay đổi
+* PLAYER HACK *;* PLAYER HACK *
+Custom Player Stats;chỉnh chỉ số người chơi
+CHANGE LEVEL PLAYER TO;CHANGE LEVEL PLAYER TO
+MAX HEALTH (>100, 0 for infinite);MAX máu (>100, 0 for infinite)
+MAX STAMINA (>100, 0 for infinite);MAX STAMINA (>100, 0 for infinite)
+MAX OXYGEN (>100, 0 for infinite);MAX OXYGEN (>100, 0 for infinite)
+MAX FOOD (>100, 0 for infinite);MAX FOOD (>100, 0 for infinite)
+MAX WATER (>100, 0 for infinite);MAX nước (>100, 0 for infinite)
+MAX WEIGHT (>100, 0 for infinite);MAX WEIGHT (>100, 0 for infinite)
+MELEE DAMAGE (>100, 0 for infinite);MELEE DAMAGE (>100, 0 for infinite)
+MOVEMENT SPEED (>100);MOVEMENT SPEED (>100)
+FORTITUDE (>0, 0 for infinite);FORTITUDE (>0, 0 for infinite)
+CRAFTING SPEED (>100, 0 for infinite);tốc độ chế đồ (>100, 0 for infinite)
+MAX TORPOR (>200,0 for infinite);MAX TORPOR (>200,0 for infinite)
+Apply change stats;Áp dụng thay đổi
+* CREATURES HACK *;settings tame
+Tame Creatures;thuần hoá thú
+FAST TAMING?;tame nhanh
+Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food);Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food)
+Teleport Creature to Player;Dịch chuyển sinh vật đến người chơi
+Custom Color Creatures;chỉnh màu thú
+Body Red Value (R);màu đỏ Value (R)
+Body Green Value (G);màu xanh Value (G)
+Body Blue Value (B);màu xanh biển Value (B)
+Feet Red Value (R);Feet Red Value (R)
+Feet Green Value (G);Feet Green Value (G)
+Feet Blue Value (B);Feet Blue Value (B)
+Other Parts Red Value (R);Other Parts Red Value (R)
+Other Parts Green Value (G);Other Parts Green Value (G)
+Other Parts Blue Value (B);Other Parts Blue Value (B)
+Remove RPG Color;xoá màu
+Apply change Color;Áp dụng thay đổi
+Breed And Mutation;đột biến thú
+Force Breeding (Breeding anytime);Buộc nhân giống (Nhân giống bất cứ lúc nào)
+Imprinting (increase stats for any creatures even no F1);Imprinting (increase stats for any creatures even no F1)
+Maturation (Force Grow Baby);Baby Lớn Nhanh (Buộc Baby lớn lên)
+No Time Can Mate (Reset time Can Mate of creature);No Time Can Mate (Reset time Can Mate of creature)
+Apply change;Áp dụng thay đổi
+Creatures Properties;Thuộc tính sinh vật
+MAKE WILD CREATURE;Tạo sinh vật hoang dã
+CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature;CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature
+FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE;FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE
+INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE;INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE
+Apply change;Áp dụng thay đổi
+Custom Special Property Creature;Custom Special Property Creature
+Value of Property (>0);Value of Property (>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;Áp dụng thay đổi to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
+Unlimited Level Creature;Sinh vật cấp độ không giới hạn
+WHAT CREATURE LEVEL UP TO? (>1);WHAT CREATURE LEVEL UP TO? (>1)
+MAX HEALTH (Check if prioritize upgrade points here);MAX HEALTH (Check if prioritize upgrade points here)
+MAX STAMINA (Check if prioritize upgrade points here);MAX STAMINA (Check if prioritize upgrade points here)
+MAX OXYGEN (Check if prioritize upgrade points here);MAX OXYGEN (Check if prioritize upgrade points here)
+MAX FOOD (Check if prioritize upgrade points here);MAX FOOD (Check if prioritize upgrade points here)
+MAX WEIGHT (Check if prioritize upgrade points here);MAX WEIGHT (Check if prioritize upgrade points here)
+MAX MELEE DAMAGE (Check if prioritize upgrade points here);MAX MELEE DAMAGE (Check if prioritize upgrade points here)
+MAX TORPOR (Don't care, Auto change by creature's level);MAX TORPOR (Don't care, Auto change by creature's level)
+Apply change;Áp dụng thay đổi
+Custom Stats Creature;Tùy Chỉnh Chỉ Số Dinos
+MAX HEALTH (>1, 0 for infinite);MAX HEALTH (>1, 0 for infinite)
+MAX STAMINA (>1, 0 for infinite);MAX STAMINA (>1, 0 for infinite)
+MAX OXYGEN (>1, 0 for infinite);MAX OXYGEN (>1, 0 for infinite)
+MAX FOOD (>1, 0 for infinite);MAX FOOD (>1, 0 for infinite)
+MAX WEIGHT (>1, 0 for infinite);MAX WEIGHT (>1, 0 for infinite)
+MELEE DAMAGE (>1, 0 for infinite);MELEE DAMAGE (>1, 0 for infinite)
+MOVEMENT SPEED (>1);MOVEMENT SPEED (>1)
+MAX TORPOR (>200, 0 for infinite);MAX TORPOR (>200, 0 for infinite)
+EXPERIENCE CREATURE (>=0);EXPERIENCE CREATURE (>=0)
+Apply change stats;Áp dụng thay đổi
+Free Creatures;Free Creatures
+Enter Creature Id Here (Replace Creature must have lenght ID shorter or equal original);Enter Creature Id Here (Replace Creature must have lenght ID shorter or equal original)
+Change Level Of Creature;Change Level Of Creature
+Free Creature Revival;Free Creature Revival
+Unlimited storage time implant;Unlimited storage time implant
+Apply change;Áp dụng thay đổi
+* ITEMS AND EQUIPMENTS HACK*;* HACK VẬT PHẨM VÀ THIẾT BỊ*
+Upgrade Items;Upgrade Items
+Infinite Durability;vô hạn độ bền
+Max Armor;Max Armor
+Max Damage;Max Damage
+Max Hypothermic and Hyperthermic;Max Hypothermic and Hyperthermic
+Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows);Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows)
+Max Quality;Max Quality
+Make Premium Item;Make Premium Item
+Quantity Of Item (use better with Resources);Quantity Of Item (use better with Resources)
+NO SPOILS (use better with Resources are CONSUMABLES);NO SPOILS (use better with Resources are CONSUMABLES)
+Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg);Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg)
+SKIP THE INCUBATION PERIOD (For Fertilized Egg Items);SKIP THE INCUBATION PERIOD (For Fertilized Egg Items)
+Apply change;Áp Dụng Thay Đổi
+Create Blueprint or APKetype Item;Create Blueprint or APKetype Item
+Make Blueprint (no premium) or ARKetype (premium item);Make Blueprint (no premium) or ARKetype (premium item)
+Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources;Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources
+Apply change;Áp Dụng Thay Đổi
+Other Items Option;Other Items Option
+Use Durability (Disable Use got bug fill with water skin-jar, canteen);Use Durability (Disable Use got bug fill with water skin-jar, canteen)
+Do not consume Durability;Do not consume Durability
+Force Drop Items;Force Drop Items
+* ENGRAM AND CRAFTING *;* ENGRAM AND CRAFTING *
+ENGRAM AND CRAFTING;ENGRAM AND CRAFTING
+Free Crafting;Chế tạo miễn phí
+Force Learn Engrams (Ignore Requires Engrams to learn);Force Learn Engrams (Ignore Requires Engrams to learn)
+Speed Crafting;Chế tạo Speed
+* STRUCTURES HACK *;* STRUCTURES HACK *
+Structure Options;Structure Options
+Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY;Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY
+Apply change;Áp dụng Thay Đổi
+* SHOP HACK *;* SHOP HACK *
+SHOP OPTIONS;SHOP OPTIONS
+Unlock Store Items;Unlock Store Items
+No of items on purchase (0: no chance);No of items on purchase (0: no chance)
+Amber Items Cost_OFF,Free,-100,-1000,Negative Cost;Amber Items Cost_OFF,Free,-100,-1000,Negative Cost
+FREE GET ITEMS;NHẬN QUÀ MIỄN PHÍ
+Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item);Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item)
+Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant;Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant
+Apply change item;Apply change item
+* GLOBAL HACK *;* GLOBAL HACK *
+GAME MODE CONFIGURATIONS;GAME MODE CONFIGURATIONS
+Has Ascendant Creature Unlock;Has Ascendant Creature Unlock
+Primal Pass;Primal Pass
+God Console;God Console
+Harvest Amount Multiplier;Hệ số thu hoạch
+Dino Revival Cost Scale;Dino Revival Cost Scale
+Max Amber For Res From Dino;Max Amber For Res From Dino
+Fishing Loot Quality Multiplier;Fishing Loot Quality Multiplier
+Taming Speed Multiplier;Taming Speed Multiplier
+Mating Interval Multiplier;Mating Interval Multiplier
+Egg Hatch Speed Multiplier;Egg Hatch Speed Multiplier
+Baby Mature Speed Multiplier;Baby Mature Speed Multiplier
+Experience Rates;Experience Rates
+Baby Imprinting Speed Scale;Baby Imprinting Speed Scale
+Per Level Stats Multiplier Player;Per Level Stats Multiplier Player
+Experience Boost From Buffs Rates;Experience Boost From Buffs Rates
+GOD CONSOLE MENU (SP);GOD CONSOLE MENU (SP)
+Never Disable God Console;Không bao giờ vô hiệu hóa God Console
+God Mode - Immortal;Chế độ - Bất tử
+HEAL ALL;Hồi Máu ALL
+Infinite Stats;Infinite Stats
+Advance Day;Advance Day
+Recolor Target;Recolor Target
+Infinite Ammo;Infinite Ammo
+Fly And Ghost Mode_OFF, Fly, Ghost;Fly And Ghost Mode_OFF, Fly, Ghost
+Give Resources With Max Stack;Give Resources With Max Stack
+Give Resources Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl;Nhận tài nguyên Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl
+Give Resources;Nhận tài nguyên
+UI AND SYSTEM OPTIONS;TÙY CHỌN UI VÀ HỆ THỐNG
+Unlock Store Items;Mở khóa Tất Cả các mặt hàng trong cửa hàng
+Disable Play Spawn Intro;Disable Play Spawn Intro
+Spawn Creatures Eery On World (Change at Main Menu);Spawn Creatures Eery On World (Change at Main Menu)
+60fps and True Color Mode;60fps and True Color Mode
+* OTHER HACK *;Lưu và tải dữ liệu
+Save And Load data;Save Data (Vào thư mục Obb)
+Save Data (To Obb folder);Load Data (Từ thư mục Obb)

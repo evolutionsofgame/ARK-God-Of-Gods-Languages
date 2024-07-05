@@ -1,0 +1,406 @@
+SINGLE PLAYER + MULTIPLAYER;Single Player + Multi player
+* ESP *;*ESP*
+Distance View ESP;Jarak pandang ESP
+ESP;ESP
+Players;Pemain
+Line;Garis
+Box;Box
+Hp Bar;Bar HP
+Name;Nama
+Dinosaurs ESP;Dinosaurus ESP
+Structures ESP;Bangunan ESP
+Beds ESP;Tempat tidur ESP
+Crosshair;Garis bidik
+Size Text Name;Ukuran teks nama
+Thickness Drawline (value/2);Garis ketebalan (nilai/2)
+Crosshair size;ukuran garis bidik
+AIMBOT;*Aimbot
+Aim Type_OFF, Magic Bullet (testing), Aimlock;-Tipe bidikan_OFF, Magic Bullet (pengujian), Aimlock
+Aim Part_Head, Chest, Legs;-bagian bidikan_Kepala, Dada, Kaki
+Big Head Size;-ukuran kepala besar
+Global Options;*Opsi global
+Global Speed;-kecepatan global
+Field Of View;-Ruang pandang
+Wide View;-pandangan luas
+Time Of Day (0: No change);-waktu hari ini(0:Tidak di ubah)
+Game FPS (30: no change);-game FPS(30: Tidak di ubah)
+Primal Pass;-primal pass
+Recolor Target;-Warnai ulang target
+Resurrect Every Inventory;-hidupkan kembali setiap inventory
+Fly And Ghost Mode (SP & Visual MP)_OFF, Fly, Ghost;-mode terbang&hantu (sp&visual mp)_MATI, Terbang, Hantu
+Dungeon Option;*Opsi dungeon
+Go To Dungeon;-Pergi ke dungeon
+Save Current Dungeon Slot;-simpan slot dungeon saat ini
+List Dungeon Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10;-Daftar dungeon yg tersimpan_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10
+Free Go To Dungeon Slot;-Bebas masuk ke slot dungeon
+Dungeon Name (Ex: Sep22 Hootenanny);-Nama dungeon (contoh : sep 22 hootenanny)
+Go To Dungeon By Name;-Pergi ke dungeon via nama
+PvP;*PvP
+Force Pick or Demolish Structure_OFF, Pick, Demolish;-Mengambil paksa atau menghancurkan bangunan_MATI, Pilih, Hancurkan
+Range for Pickup;-Jarak untuk mengambil
+1 Click Pickup All in Range;-1 klik ambil semua dalam jangkauan
+Auto Pickup ALL;-Mengambil secara otomatis
+Allow Apply With Team Structures;-Allow Apply With Team Structures
+Force Take Dino or Kill_OFF, Force Take, Kill;-Paksa Ambil dino atau bunuh dino_MATI, Paksa Ambil, Bunuh
+Range for Apply Creatures;-Jangkauan untuk penerapan creature
+Manual Click Take All Creatures in Range;-Klik manual untuk mengambil creature dalam jangkauan
+Auto Take All Creatures in Range;-Ambil Otomatis Semua Makhluk dalam Jangkauan
+Tame Shooting;-Tame shootings
+Strafing;-Tembakan brondong
+Instant turn;-Giliran instan
+NoSway;-Tidak Berpengaruh
+Bullet Burst;-Ledakan peluru
+Underwater Shooting;-Menembak di bawah air
+Infinite Ammo (Machined Pistol);-Peluru tak terbatas(pistol mesin)
+1 Click Level Up (Unlock Notes);-1 klik naik level (membuka Notes)
+Inventory Options;*Opsi inventory
+All Items Inventory_Force Transfer To My Inventory, Force Transfer To Target Inventory, Force Drop All Target Inventory Owned;-Semua item Inventory_Transfer Paksa ke Inventaris Saya, Transfer Paksa ke Inventaris Target, Hapus Paksa Semua Inventaris Target yang Dimiliki
+Apply Change;-Menerapkan perubahan
+Auto Settings Eerie Turrets;*Pengaturan otomatis eerie turrets
+State_Sleep, Active;-Statis_Tidur, Aktif
+Range_Low, Medium, High;-Jangkauan_Rendah,sedang,Tinggi
+Warning_No Warning, 2 Seconds, 4 seconds;-Peringatan_Tidak Ada Peringatan, 2 Detik, 4 detik
+Targets_All Targets, Player/Tamed, Only Players, Only Wild;-Target_Semua Target, Pemain/Jinak, Hanya Pemain, Hanya Liar
+No Ammo Push;-Tanpa dorongan amunisi
+Apply Change All Turrets;-Terapkan ubah semua turret
+Auto Equip And Consumable;-Perlengkapan otomatis dan barang konsumsi
+Auto Equip Armors;-Armor perlengkapan otomatis
+Auto Use Consumable Items;-Otomatis Menggunakan Barang konsumsi
+Medical Brew;-Ramuan obat
+Energy Brew;-Ramuan Energi
+Auto Feed Meat Heal Dinos;-Otomatis Memberi makan Dino Daging penyembuh
+Weapon Spam;-Spam senjata
+RPG Spam;-Spam RPG
+Manual Rocket Shoot;-Tembakan rocket secara manual
+Style Shoot_Collateral, Cluster;*Gaya menembak_Agunan, Klaster
+Shooting mode_Simultaneous shooting, Sequential shooting;-Mode sedang menembak_Pemotretan serentak, Pemotretan berurutan
+Speed shooting;-Kecepatan Menembak
+No of Rocket (value x2);-Tidak ada roket(nilai x2)
+Spam Rocket Turret Shoot;-Spam tembakan turet roket
+Manual Rocket Turret Shoot;-Manual tembakan turet roket
+Free Structures;*Bangunan gratis
+Structure Dupe;-Duplikasi bangunan
+Structure Swap;-Pertukaran bangunan
+Change ID;-Ganti ID
+Auto Placed and Fly;-Otomatis di tempatkan & terbang
+Bed Teleportation;*Teleportasi tempat tudur
+Go to Random Spawn Point;-Pergi ke titik spawn acak
+Teleport To Nearest Bed;-teleport ke tempat tidur terdekat
+Save Bed Location;-Menyimpan lokasi tempat tidur
+Slots Save Bed Location;-Slot menyimpan lokasi tempat tidur
+TP to Save Bed Location;-TP ke lokasi tempat tidur yang di simpan
+Enter BED ID (Get bed ID by Click Save Bed Location);-Masukkan ID tempat tidur(dapatkan ID tempat tidur dengan klik lokasi tempat tidur yang disimpan)
+TP to Bed by Bed ID;-TP ke tempat tidur via bed ID
+Custom Player Color;*Penyesuaian warna pemain
+Change Body Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;-Mengubah warna tubuh_Merah, Hijau, Biru, Kuning, Merah Muda, Biru Muda, Hitam, Putih
+Body Fill Rate;-tingkat pengisian tubuh
+Change Hair Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;-mengubah warna rambut_Merah, Hijau, Biru, Kuning, Merah Muda, Biru Muda, Hitam, Putih
+Hair Fill Rate;-tingkat pengisian rambut
+Change Eyes Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;-mengubah warna mata_Merah, Hijau, Biru, Kuning, Merah Muda, Biru Muda, Hitam, Putih
+Eyes Fill Rate;-tingkat pengisian mata
+Apply change color;-penyesuain pergantian warna
+RGB Character;-RGB karakter
+Color Speed;-kecepatan warna
+Link Tool Check ID;-tautan  tool check ID
+Structures Spawn ID;-Bangunan spawn ID
+Items ID;-item ID
+Admin Command;-Admin command
+Creatures ID;-Creature ID
+Join Discord For Other Versions;Join Discord untuk versi yang lain
+Subscribe to youtube channel;Subscribe YouTube channel
+ONLY MULTIPLAYER HACK;HANYA MULTIPLAYER HACK
+Save And Auto Login Server;-menyimpan dan otomatis login server
+Login Server;-login server
+Save Server Slots_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5;-menyimpan slot server_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5
+Save Server;-menyimpan server
+Global Options (MP);*Opsi global
+Local Speed;-kecepatan lokal
+Raptor Skin;-skin raptor
+Suicide;-bunuh diri
+Auto Explode;-meledak otomatis
+Manual Explode;-meladak manual
+1 Click Crash Server;-1 klik menghancurkan server
+Chat Hack;*chat hack
+Chat Type (Red Message)_OFF,Text,Notification,Announcement;-tipe chat (pesan merah)_MATI,Teks,Pemberitahuan,Pengumuman
+Hide Login;-sembunyikan login
+Spam Message;-spam pesan
+Admin Panel;*panel admin
+Enable Admin Control with Emotes button (login admin password to admin control work);-aktifkan kontrol admin dengan tombol Emot(login password admin ke admin kontrol bekerja)
+Enable Teleport and Jump time menu with Whistles button (login admin password to admin control work);-Aktifkan menu Teleportasi dan Lompat waktu dengan tombol Peluit (login password admin agar kontrol admin berfungsi)
+Fake Admin;-admin palsu
+ADMIN COMMAND MULTIPLAYER;*admind command multiplayer
+Get Item;-dapatkan item
+Item ID;-item ID
+Amount;-jumlah
+Apply;-terapkan
+Get Creature;*Dapatkan creature
+Creature ID;-ID creature
+Level;-level
+Wild & Random Level;-liar & level acak
+Apply;-Terapkan
+PLAYER TELEPORT;*teleportasi pemain
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;teleport ke_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Custom Latitude (X);-custom latitude (x)
+Custom Longitude (Y);-custom longtitude(y)
+Custom Coordinates (Z);-custom kordinat (z)
+Slot Save Location;-slot penyimpanan lokasi
+Apply change;-Terapkan  ganti
+Setting Command;*pengaturan command
+Instant Grow Baby;-bayi tumbuh instan
+Destroy Tribe Structures;-hancurkan bangunan tribe
+Destroy Tribe Players;-hancurkan tribe pemain
+Destroy Tribe Dinos;-Hancurkan tribe dino
+Give To  Me;-Give to me
+Speed World;-kecepatan dunia
+Game Mode_OFF,PVE,PVP,PVX,PVX Clock;-game mode_OFF,PVE,PVP,PVX,PVX Clock
+Make Tribe Admin;-membuat admin tribe
+Make Tribe Founder;-membuat founder tribe
+Take All Structure;-mengambil semua bangunan
+Take All Dino;-mengambil semua dino
+Force Player To Join Target Tribe;-paksa pemain untuk join target tribe
+Tribe Name For Join;-nama target untuk join
+Quit;-keluar
+Save World;-simpan
+1 Click Crash Server;-1 klik menghancurkan server
+Force Sleep/WakeUp;-paksa tidur/bangun
+Set Target Dino Color;-ubah warna dino yang di target
+Region_Wings,Body,Tuft and Legs,Brightness;-wilayah_Sayap, Badan, Jambul dan Kaki, Kecerahan
+Color ID;-ID warna
+Set Imprint Quality;-mengatur kualitas imprint
+Imprint Value;-nilai imprint
+Infinite Stats;-status infinite
+Old Name;-nama lama
+New Name;-nama baru
+Rename Player/Tribe_OFF,Rename Player,Rename Tribe;-namai ulang player/tribe_OFF,namai ulang Player,namai ulang Tribe
+Enemy In Visible;-musuh terlihat
+Where Is Amber;-Dimana amber nya
+Room Teleport;-ruangan teleportasi
+To Room Number;-ke nomor ruang
+Room Kill All;-ruang membunuh semua
+List Players;-daftar pemain
+God;-God
+GMBuff;-GMbuff
+Make It Rain;-membuat hujan
+Heat Wave;-gelombang panas
+Player Move Mode_Walk,Fly,Fly Fast,Ghost;-mode perpindahan pemain_Berjalan,Terbang,Terbang Cepat,Hantu
+Set Time Of Day;-mengatur waktu dalam sehari
+Time Text. Ex: 14:30;-teks waktu  contoh: 14:30
+Free Gift;-free gift
+Find Wild Dino;-mencari dino liar
+ID Creature For Find;-ID creature untuk di cari
+Instant Dino Request;-permintaan dino instan
+Value of Property (>0);-nilai properti(>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;-Terapkan ganti ke_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
+Force Tame;-force tame
+Auto Tame By Target;-Otomatis taming dengan mentarget
+Force Mate;-paksa kawin
+Summon Command;*Summon Command
+Auto Give To Me By Target;Auto Give To Me By Target
+Manual Summon command (all text after Summon );Manual Summon command (all text after Summon )
+Apply;terapkan
+Shortcut Summon Command;Shortcut Summon Command
+Tek Replicator;-Tek Replicator
+Tek Teleporter;-Tek Teleporter
+Tek Bed;-Tek Bed
+Tek Ramp;-Tek Ramp
+Tek Ladder;-Tek Ladder
+Tek Pillar;-Tek Pillar
+Tek Trough;-Tek Trough
+Tek Door;-Tek Door
+Tek Door Frame;-Tek Door Frame
+Tek Stairsm;-Tek Stairsm
+Tek Railing;-Tek Railing
+Tek Fence Foundation;-Tek Fence Foundation
+Tek Wall;-Tek Wall
+Tek Wall Sloped Right;-Tek Wall Sloped Right
+Tek Wall Sloped Left;-Tek Wall Sloped Left
+Tek Roof;-Tek Roof
+Tek Window;-Tek Window
+Tek Window Wall;-Tek Window Wall
+Tek Ceiling;-Tek Ceiling
+Tek Bp Rramp;-Tek Bp Rramp
+Tek Light;-Tek Light
+Tek Floor;-Tek Floor
+Tek Generator;-Tek Generator
+Manual Admin Command;*Manual Admin Command
+Command text (All Text After Admincheat );Command text (semua Teks setelah Admincheat )
+Apply;'terapkan
+ONLY SINGLE PLAYER HACK;SINGLE PLAYER HACK
+Global Options (SP);opsi global(sp)
+Infinite Amber, Resources, Ammo & Free Crafting;Infinite Amber, Resources, Ammo & Free Crafting
+Fake Level 999;Fake Level 999
+Player Speed;Player Speed
+Player Melee Damage;Player Melee Damage
+100% chance spawn Noctis in dungeon boss;100% peluang muncul boss noctis di dungeon
+Destroy All Creatures;hancurkan semua Creatures
+* TELEPORT *;* TELEPORT *
+PLAYER TELEPORT;PLAYER TELEPORT
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Teleport ke_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Custom Latitude (X);Custom Latitude (X)
+Custom Longitude (Y);Custom Longitude (Y)
+Custom Coordinates (Z);Custom Coordinates (Z)
+Slot Save Location;slot penyimpanan lokasi
+Apply change;terapkan ganti
+Teleport Structures;Teleport Structures
+Change to all structures in radius with Player: (>0);ubah semua bangunan dalam radius dengan player: (>0)
+Increases or decreases (+ or - value) Height Z;Menambah atau mengurangi (+ atau - nilai) Tinggi Z
+Increases or decreases (+ or - value) Y;Menambah atau mengurangi (+ atau - nilai) Y
+Increases or decreases (+ or - value) X;Menambah atau mengurangi (+ atau - nilai) X
+Only change structures with same height Z;Hanya mengubah bangunan dengan ketinggian yang sama Z
+Only change structures with same Duration(0: Nochange);Hanya mengubah bangunan dengan durasi yang sama(0: Tidak di ubah)
+Move to player Save location;Bergerak ke slot penyimpanan lokasi
+Teleport to Slot Save Location;Teleport ke slot penyimpanan lokasi
+Get Information Structues;Dapatkan informasi bangunan
+Apply change;terapkan ganti
+* PLAYER HACK *;PLAYER HACK *
+Custom Player Stats;Custom Player Stats
+CHANGE LEVEL PLAYER TO;CHANGE LEVEL PLAYER TO
+MAX HEALTH (>100, 0 for infinite);MAX HEALTH (>100, 0 for infinite)
+MAX STAMINA (>100, 0 for infinite);MAX STAMINA (>100, 0 for infinite)
+MAX OXYGEN (>100, 0 for infinite);MAX OXYGEN (>100, 0 for infinite)
+MAX FOOD (>100, 0 for infinite);MAX FOOD (>100, 0 for infinite)
+MAX WATER (>100, 0 for infinite);MAX WATER (>100, 0 for infinite)
+MAX WEIGHT (>100, 0 for infinite);MAX WEIGHT (>100, 0 for infinite)
+MELEE DAMAGE (>100, 0 for infinite);MELEE DAMAGE (>100, 0 for infinite)
+MOVEMENT SPEED (>100);MOVEMENT SPEED (>100)
+FORTITUDE (>0, 0 for infinite);FORTITUDE (>0, 0 for infinite)
+CRAFTING SPEED (>100, 0 for infinite);CRAFTING SPEED (>100, 0 for infinite)
+MAX TORPOR (>200,0 for infinite);MAX TORPOR (>200,0 for infinite)
+Apply change stats;Terapkan pergantian stats
+* CREATURES HACK *;* CREATURES HACK *
+Tame Creatures;Tame Creatures
+FAST TAMING?;FAST TAMING?
+Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food);Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food)
+Teleport Creature to Player;Teleport Creature to Player
+Custom Color Creatures;Custom Color Creatures
+Body Red Value (R);Body Red Value (R)
+Body Green Value (G);Body Green Value (G)
+Body Blue Value (B);Body Blue Value (B)
+Feet Red Value (R);Feet Red Value (R)
+Feet Green Value (G);Feet Green Value (G)
+Feet Blue Value (B);Feet Blue Value (B)
+Other Parts Red Value (R);Other Parts Red Value (R)
+Other Parts Green Value (G);Other Parts Green Value (G)
+Other Parts Blue Value (B);Other Parts Blue Value (B)
+Remove RPG Color;Menghapus warna RPG
+Apply change Color;Terapkan pergantian warna
+Breed And Mutation;Breed dan mutasi
+Force Breeding (Breeding anytime);Paksa breeding (breeding kapan saja)
+Imprinting (increase stats for any creatures even no F1);imprinting(meningkatkan stat creature tanpa f1)
+Maturation (Force Grow Baby);maturation(paksa tumbuh dewasa)
+No Time Can Mate (Reset time Can Mate of creature);No Time Can Mate (Reset time Can Mate of creature)
+Apply change;terapkan ubah
+Creatures Properties;Creatures Properties
+MAKE WILD CREATURE;MAKE WILD CREATURE
+CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature;CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature
+FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE;FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE
+INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE;INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE
+Apply change;Apply change
+Custom Special Property Creature;Custom Special Property Creature
+Value of Property (>0);Value of Property (>0)
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
+Unlimited Level Creature;Unlimited Level Creature
+WHAT CREATURE LEVEL UP TO? (>1);WHAT CREATURE LEVEL UP TO? (>1)
+MAX HEALTH (Check if prioritize upgrade points here);MAX HEALTH (Check if prioritize upgrade points here)
+MAX STAMINA (Check if prioritize upgrade points here);MAX STAMINA (Check if prioritize upgrade points here)
+MAX OXYGEN (Check if prioritize upgrade points here);MAX OXYGEN (Check if prioritize upgrade points here)
+MAX FOOD (Check if prioritize upgrade points here);MAX FOOD (Check if prioritize upgrade points here)
+MAX WEIGHT (Check if prioritize upgrade points here);MAX WEIGHT (Check if prioritize upgrade points here)
+MAX MELEE DAMAGE (Check if prioritize upgrade points here);MAX MELEE DAMAGE (Check if prioritize upgrade points here)
+MAX TORPOR (Don't care, Auto change by creature's level);MAX TORPOR (Don't care, Auto change by creature's level)
+Apply change;Apply change
+Custom Stats Creature;Custom Stats Creature
+MAX HEALTH (>1, 0 for infinite);MAX HEALTH (>1, 0 for infinite)
+MAX STAMINA (>1, 0 for infinite);MAX STAMINA (>1, 0 for infinite)
+MAX OXYGEN (>1, 0 for infinite);MAX OXYGEN (>1, 0 for infinite)
+MAX FOOD (>1, 0 for infinite);MAX FOOD (>1, 0 for infinite)
+MAX WEIGHT (>1, 0 for infinite);MAX WEIGHT (>1, 0 for infinite)
+MELEE DAMAGE (>1, 0 for infinite);MELEE DAMAGE (>1, 0 for infinite)
+MOVEMENT SPEED (>1);MOVEMENT SPEED (>1)
+MAX TORPOR (>200, 0 for infinite);MAX TORPOR (>200, 0 for infinite)
+EXPERIENCE CREATURE (>=0);EXPERIENCE CREATURE (>=0)
+Apply change stats;Terapkan ubah status
+Free Creatures;creature gratis
+Enter Creature Id Here (Replace Creature must have lenght ID shorter or equal original);Masukkan Creature Id Disini (creature Pengganti harus memiliki panjang ID yang lebih pendek atau sama dengan aslinya)
+Change Level Of Creature;Mengubah level creature
+Free Creature Revival;Bebas menghidupkan creature
+Unlimited storage time implant;Penyimpanan tak terbatas implant
+Apply change;terapkan ganti
+* ITEMS AND EQUIPMENTS HACK*;* ITEMS AND EQUIPMENTS HACK*
+Upgrade Items;Upgrade Items
+Infinite Durability;Infinite Durability
+Max Armor;Max Armor
+Max Damage;Max Damage
+Max Hypothermic and Hyperthermic;Max Hypothermic and Hyperthermic
+Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows);Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows)
+Max Quality;Max Quality
+Make Premium Item;Make Premium Item
+Quantity Of Item (use better with Resources);Quantity Of Item (use better with Resources)
+NO SPOILS (use better with Resources are CONSUMABLES);NO SPOILS (use better with Resources are CONSUMABLES)
+Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg);Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg)
+SKIP THE INCUBATION PERIOD (For Fertilized Egg Items);SKIP THE INCUBATION PERIOD (For Fertilized Egg Items)
+Apply change;Apply change
+Create Blueprint or APKetype Item;Create Blueprint or APKetype Item
+Make Blueprint (no premium) or ARKetype (premium item);Make Blueprint (no premium) or ARKetype (premium item)
+Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources;Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources
+Apply change;Apply change
+Other Items Option;Other Items Option
+Use Durability (Disable Use got bug fill with water skin-jar, canteen);Use Durability (Disable Use got bug fill with water skin-jar, canteen)
+Do not consume Durability;Do not consume Durability
+Force Drop Items;Force Drop Items
+* ENGRAM AND CRAFTING *;* ENGRAM AND CRAFTING *
+ENGRAM AND CRAFTING;ENGRAM AND CRAFTING
+Free Crafting;Free Crafting
+Force Learn Engrams (Ignore Requires Engrams to learn);Force Learn Engrams (Ignore Requires Engrams to learn)
+Speed Crafting;Speed Crafting
+* STRUCTURES HACK *;* STRUCTURES HACK *
+Structure Options;Structure Options
+Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY;Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY
+Apply change;Apply change
+* SHOP HACK *;* SHOP HACK *
+SHOP OPTIONS;SHOP OPTIONS
+Unlock Store Items;Unlock Store Items
+No of items on purchase (0: no chance);No of items on purchase (0: no chance)
+Amber Items Cost_OFF,Free,-100,-1000,Negative Cost;Amber Items Cost_OFF,Free,-100,-1000,Negative Cost
+FREE GET ITEMS;FREE GET ITEMS
+Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item);Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item)
+Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant;Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant
+Apply change item;Apply change item
+* GLOBAL HACK *;* GLOBAL HACK *
+GAME MODE CONFIGURATIONS;GAME MODE CONFIGURATIONS
+Has Ascendant Creature Unlock;Has Ascendant Creature Unlock
+Primal Pass;Primal Pass
+God Console;God Console
+Harvest Amount Multiplier;Harvest Amount Multiplier
+Dino Revival Cost Scale;Dino Revival Cost Scale
+Max Amber For Res From Dino;Max Amber For Res From Dino
+Fishing Loot Quality Multiplier;Fishing Loot Quality Multiplier
+Taming Speed Multiplier;Taming Speed Multiplier
+Mating Interval Multiplier;Mating Interval Multiplier
+Egg Hatch Speed Multiplier;Egg Hatch Speed Multiplier
+Baby Mature Speed Multiplier;Baby Mature Speed Multiplier
+Experience Rates;Experience Rates
+Baby Imprinting Speed Scale;Baby Imprinting Speed Scale
+Per Level Stats Multiplier Player;Per Level Stats Multiplier Player
+Experience Boost From Buffs Rates;Experience Boost From Buffs Rates
+GOD CONSOLE MENU (SP);GOD CONSOLE MENU (SP)
+Never Disable God Console;Never Disable God Console
+God Mode - Immortal;God Mode - Immortal
+HEAL ALL;HEAL ALL
+Infinite Stats;Infinite Stats
+Advance Day;Advance Day
+Recolor Target;Recolor Target
+Infinite Ammo;Infinite Ammo
+Fly And Ghost Mode_OFF, Fly, Ghost;Fly And Ghost Mode_OFF, Fly, Ghost
+Give Resources With Max Stack;Give Resources With Max Stack
+Give Resources Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl;Give Resources Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl
+Give Resources;Give Resources
+UI AND SYSTEM OPTIONS;UI AND SYSTEM OPTIONS
+Unlock Store Items;Unlock Store Items
+Disable Play Spawn Intro;Disable Play Spawn Intro
+Spawn Creatures Eery On World (Change at Main Menu);Spawn Creatures Eery On World (Change at Main Menu)
+60fps and True Color Mode;60fps and True Color Mode
+* OTHER HACK *;* OTHER HACK *
+Save And Load data;Save And Load data
+Save Data (To Obb folder);Save Data (To Obb folder)
+Load Data (From Obb folder);Load Data (From Obb folder)
