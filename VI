@@ -1,7 +1,7 @@
-SINGLE PLAYER + MULTIPLAYER;OFFLINE + ONLINE
+SINGLE PLAYER + MULTIPLAYER;OFF+ONLINE(off ko sài đc ở online😑)
 * ESP *;* ĐỊNH VỊ *
 Distance View ESP;Distance View ESP
-ESP;ESP
+ESP;vị trí
 Players;Người Chơi
 Line;Line
 Box;Hòm
@@ -13,10 +13,10 @@ Beds ESP;Định vị giường
 Crosshair;Gim tâm chuẩn
 Size Text Name;Kích Thước Tên
 Thickness Drawline (value/2);Thickness Drawline (value/2)
-Crosshair size;Crosshair size
-AIMBOT;AIMBOT
+Crosshair size;chỉnh độ to tâm chuẩn
+AIMBOT;Aim
 Aim Type_OFF, Magic Bullet (testing), Aimlock;Aim Type_OFF, Magic Bullet thử nghiệm, Aim khoá
-Aim Part_Head, Chest, Legs;Aim Part_đầu, thân, chân
+Aim Part_Head, Chest, Legs;Aim vào_đầu, thân, chân
 Big Head Size;Đầu To
 Global Options;Global Options
 Global Speed;tốc độ thế giới
@@ -43,13 +43,13 @@ Auto Pickup ALL;Auto phá
 Allow Apply With Team Structures;Allow Apply With Team Structures
 Force Take Dino or Kill_OFF, Force Take, Kill;Buộc lấy Dino hoặc Giết TẮT, Buộc lấy, Giết
 Range for Apply Creatures;phạm vi phá
-Manual Click Take All Creatures in Range;Manual Click Take All Creatures in Range
+Manual Click Take All Creatures in Range;đấm phát tame hoặc kill trong phạm vi
 Auto Take All Creatures in Range;Tự động bắt tất cả sinh vật trong phạm vi
-Tame Shooting;Chế ngự bắn súng
-Strafing;Căng thẳng
+Tame Shooting;bắn súng trên thú( test)
+Strafing;bắn ko dật
 Instant turn;Chuyển hướng ngay lập tức
-NoSway;Không lắc lư
-Bullet Burst;đạn nổ
+NoSway;bắn không rung tâm
+Bullet Burst;bắn nhanh
 Underwater Shooting;bắn súng dưới nước
 Infinite Ammo (Machined Pistol);Vô hạn đạn (Machined Pistol)
 1 Click Level Up (Unlock Notes);1 Click tăng Level (Mở khóa Notes)
@@ -57,7 +57,7 @@ Inventory Options;Chức năng kho đồ
 All Items Inventory_Force Transfer To My Inventory, Force Transfer To Target Inventory, Force Drop All Target Inventory Owned;chộm đồ, chả lại, Vứt tất cả
 Apply Change;Áp dụng thay đổi
 Auto Settings Eerie Turrets;Tự động chỉnh sửa Turrets 7M
-State_Sleep, Active;State_Sleep, Active
+State_Sleep, Active;State_tắt, bật
 Range_Low, Medium, High;Phạm Vi_Thấp, Trung bình, Cao
 Warning_No Warning, 2 Seconds, 4 seconds;Cảnh báo_Không cảnh báo, 2 giây, 4 giây
 Targets_All Targets, Player/Tamed, Only Players, Only Wild;Mục Tiêu_Tất cả mục tiêu, Người chơi/thú tame, Người chơi, Khủng Long hoang dã
@@ -65,9 +65,9 @@ No Ammo Push;Không đẩy đạn
 Apply Change All Turrets;Áp dụng thay đổi cho tất cả
 Auto Equip And Consumable;Auto thay giáp và uống máu
 Auto Equip Armors;Auto thay giáp
-Auto Use Consumable Items;Tự động sử dụng sức chịu đựng của tôi
-Medical Brew;Bia y tế
-Energy Brew;Bia năng lượng
+Auto Use Consumable Items;tự động dùng máu và stamina
+Medical Brew;thuốc hồi máu
+Energy Brew;thuốc năng lượng
 Auto Feed Meat Heal Dinos;Tự động đút thịt cho khủng long
 Weapon Spam;Spam đạn vũ khí
 RPG Spam;spam rocket
@@ -83,7 +83,7 @@ Structure Dupe;Structure Dupe
 Structure Swap;dupe struc id
 Change ID;nhập id structure
 Auto Placed and Fly;Auto fly struc(ấn nút đấm để spam)
-Bed Teleportation;Teleportation giường
+Bed Teleportation;Tele pọt giường
 Go to Random Spawn Point;ramdom tele điểm hồi sinh
 Teleport To Nearest Bed;Teleport To Nearest Bed
 Save Bed Location;lưu giường
@@ -107,7 +107,7 @@ Items ID;Items ID
 Admin Command;code adm ở đây
 Creatures ID;id struc dupe
 Join Discord For Other Versions;Tham gia Discord cho các phiên bản khác
-Subscribe to youtube channel;Đăng ký kênh youtube
+Subscribe to youtube channel;Đăng ký kênh youtube(không đăng ký là thiến)
 ONLY MULTIPLAYER HACK;hack online
 Save And Auto Login Server;lưu và auto lưu server
 Login Server;Login Server
@@ -128,7 +128,7 @@ Admin Panel;ADMIN
 Enable Admin Control with Emotes button (login admin password to admin control work);Chức Năng Code Piximv ( sài nút mặt cười để bật menu)
 Enable Teleport and Jump time menu with Whistles button (login admin password to admin control work);tele( 2 trức năng trên cần pass adm thật để sử dụng )
 Fake Admin;Fake Admin God Console
-ADMIN COMMAND MULTIPLAYER;Yêu Cầu Nhập Pass ADMIN Để Dùng
+ADMIN COMMAND MULTIPLAYER;Yêu Cầu Nhập Pass ADMIN Để Dùng😑
 Get Item;Get Item
 Item ID;Item ID
 Amount;Amount
@@ -191,7 +191,7 @@ ID Creature For Find;ID Creature For Find
 Instant Dino Request;Instant Dino Request
 Value of Property (>0);Value of Property (>0)
 Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;Tăng size to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
-Force Tame;Force Tame
+Force Tame;1 click tame thú
 Auto Tame By Target;Auto Tame By Target
 Force Mate;Bắt Buộc Đẻ Nhanh
 Summon Command;Lệnh triệu hồi
@@ -225,17 +225,17 @@ Tek Generator;Tek Generator
 Manual Admin Command;Lệnh Admin Command
 Command text (All Text After Admincheat );Nhập Code (All Text After Admincheat )
 Apply;Áp Dụng
-ONLY SINGLE PLAYER HACK;Chế Độ Offline
+ONLY SINGLE PLAYER HACK;Chế Độ Offline ( chỉ có thể sài ở chế độ off😑)
 Global Options (SP);Global Options (SP)
 Infinite Amber, Resources, Ammo & Free Crafting;vô hạn Amber, Tài nguyên, Đạn & Chế tạo miễn phí
-Fake Level 999;Fake Level 999
+Fake Level 999;Fake Level 999( không sài ở server được )
 Player Speed;tốc độ
 Player Melee Damage;Player Melee Damage
 100% chance spawn Noctis in dungeon boss;1200% ra noctis khi đi dungeon
 Destroy All Creatures;Tiêu diệt mọi sinh vật
 * TELEPORT *;* TELEPORT *
 PLAYER TELEPORT;PLAYER TELEPORT
-Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Teleport To_trụ xanh,trụ đỏ,trụ trắng,núi lửa, núi Griffin, đảo cỏ, đảo ăn thịt, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
 Custom Latitude (X);Custom Latitude (X)
 Custom Longitude (Y);Custom Longitude (Y)
 Custom Coordinates (Z);Custom Coordinates (Z)
