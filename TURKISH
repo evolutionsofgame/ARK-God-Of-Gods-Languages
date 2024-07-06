@@ -1,0 +1,405 @@
+SINGLE PLAYER + MULTIPLAYER;TEK OYUNCULU + ÇOK OYUNCULU
+* ESP *;* Görme *
+Distance View ESP;Mesafe Görme
+ESP;Görme
+Players;Oyuncular
+Line;Çubuk
+Box;Kutu
+Hp Bar;Can barı
+Name;İsim
+Dinosaurs ESP;dinazor yeri görme
+Structures ESP;Yapı yeri görme
+Beds ESP;Yatak ESP
+Crosshair;nişangah
+Size Text Name;Size Text Name
+Thickness Drawline (value/2);Thickness Drawline (value/2)
+Crosshair size;Crosshair size
+AIMBOT;AIMBOT
+Aim Type_OFF, Magic Bullet (testing), Aimlock;Aimbot Tipi_Kapalı, Sihirli Mermi (Test), AimKitleniş
+Aim Part_Head, Chest, Legs;Aimbot Parça_Kafa, Gövde, Bacak
+Big Head Size;Büyük kafa büyüklügü
+Global Options;Global Ayarlar
+Global Speed;Global Hız
+Field Of View;Ekran uzaklıştırması
+Wide View;Ekran görünümü
+Time Of Day (0: No change);Zaman gün içinde (0: Ayarlanmadı)
+Game FPS (30: no change);Oyun Kare hızı (30: ayarlanmadı)
+Primal Pass;Vahşi Pass
+Recolor Target;Renk Değiştir
+Resurrect Every Inventory;Resurrect Every Inventory
+Fly And Ghost Mode (SP & Visual MP)_OFF, Fly, Ghost;uçma And hayalet Modu(SP & Visual MP)_OFF, Fly, Ghost
+Dungeon Option;Zindan ayarları
+Go To Dungeon;Zindana git
+Save Current Dungeon Slot;Mevcut Zindanı kaydet
+List Dungeon Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10;List Dungeon Save_Sep22 Hootenanny,March23 Omen,May11 Chaos,Dec8 Phoenix,Dec15 Drenched,Aug10 Supersonic,Slot 7,Slot 8,Slot 9,Slot 10
+Free Go To Dungeon Slot;Ücretsiz şekilde zindana gir
+Dungeon Name (Ex: Sep22 Hootenanny);Zindan ismi (Örnek: Eylül22 Hootenanny)
+Go To Dungeon By Name;İsme göre zindana gir
+PvP;Savaş
+Force Pick or Demolish Structure_OFF, Pick, Demolish;Zorunlu Seçim ve yıkım yapısı_OFF, Pick, Demolish
+Range for Pickup;Alım Mesafesi
+1 Click Pickup All in Range;1 dokunuşla tümünü al
+Auto Pickup ALL;Tümünü otomatik al
+Allow Apply With Team Structures;Ekip yapıları başvurusuna izin ver
+Force Take Dino or Kill_OFF, Force Take, Kill;Force Take Dino or Kill_OFF, Force Take, Kill
+Range for Apply Creatures;Mesafedeki yaratıklara uygula
+Manual Click Take All Creatures in Range;Manuel tıklamayla mesafedeki tüm yaratıkları al
+Auto Take All Creatures in Range;Mesafedeki tüm yaratıkları otomatik al
+Tame Shooting;uysal Ateş
+Strafing;Kınama
+Instant turn;Hızlı dönüş
+NoSway;Ekran sallama yok
+Bullet Burst;Mermi patlaması
+Underwater Shooting;Sualtı ateş
+Infinite Ammo (Machined Pistol);Sınırsız mermi (işlenmiş tabancal)
+1 Click Level Up (Unlock Notes);Tek dokuşla level atla (Notları aç)
+Inventory Options;Sınırsız mermi (işlenmiş tabancal)
+All Items Inventory_Force Transfer To My Inventory, Force Transfer To Target Inventory, Force Drop All Target Inventory Owned;Tüm itemleri Envanteri_Envanterime zorla aktar, Force Transfer To Target Inventory, Force Drop All Target Inventory Owned
+Apply Change;degişikligi uygula
+Auto Settings Eerie Turrets;Auto Settings Eerie Turrets
+State_Sleep, Active;Durum_Uykuda, Aktif
+Range_Low, Medium, High;Mesafe_düşük, orta, Yüksek
+Warning_No Warning, 2 Seconds, 4 seconds;Bekleme süresi_Bekleme yok, 2 Saniye, 4 saniye
+Targets_All Targets, Player/Tamed, Only Players, Only Wild;Hedef_Tüm hedefler, Oyunculsr/Evciller, Sadece oyuncular, Sadece vahşiler
+No Ammo Push;mermi itmesi yok
+Apply Change All Turrets;Tüm ürkütücü taret'lara uygula
+Auto Equip And Consumable;Otomatik Kuşanma ve Zarf Malzemesi
+Auto Equip Armors;Otomatik zırhları kuşan
+Auto Use Consumable Items;Otomatik zarf malzemelerini kullan
+Medical Brew;Tıbbi içecek
+Energy Brew;Enerji içeceği
+Auto Feed Meat Heal Dinos;Otomatik dinazorları besle
+Weapon Spam;Silah oluştur
+RPG Spam;RPG oluştur
+Manual Rocket Shoot;Manuel Roket ateşi
+Style Shoot_Collateral, Cluster;Style Shoot_Collateral, Cluster
+Shooting mode_Simultaneous shooting, Sequential shooting;Shooting mode_Simultaneous shooting, Sequential shooting
+Speed shooting;Speed shooting
+No of Rocket (value x2);No of Rocket (value x2)
+Spam Rocket Turret Shoot;Spam Rocket Turret Shoot
+Manual Rocket Turret Shoot;Manual Rocket Turret Shoot
+Free Structures;ücretsiz yapı
+Structure Dupe;Yapı kopyalama
+Structure Swap;Yapı degiştirme
+Change ID;Uygulanacak Kod
+Auto Placed and Fly;Oto yerleşim ve uçan yapı
+Bed Teleportation;Yatak ışınlanması
+Go to Random Spawn Point;Random doğuş bölgesine ışınlan
+Teleport To Nearest Bed;Teleport To Nearest Bed
+Save Bed Location;Save Bed Location
+Slots Save Bed Location;Slots Save Bed Location
+TP to Save Bed Location;TP to Save Bed Location
+Enter BED ID (Get bed ID by Click Save Bed Location);Enter BED ID (Get bed ID by Click Save Bed Location)
+TP to Bed by Bed ID;TP to Bed by Bed ID
+Custom Player Color;Özel oyuncu rengi
+Change Body Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Vücut rengi_kırmızı,Yeşil,Mavi,Sarı, Pembe, Cam böceği, Siyah, Beyaz
+Body Fill Rate;Gövde doldurma
+Change Hair Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Saç rengi_kırmızı,Yeşil,Mavi,Sarı, Pembe, Cam böceği, Siyah, Beyaz
+Hair Fill Rate;Saç rengi doldurma
+Change Eyes Color_Red,Green,Blue,Yellow, Pink, Cyan, Black, White;Göz rengi_kırmızı,Yeşil,Mavi,Sarı, Pembe, Cam böceği, Siyah, Beyaz
+Eyes Fill Rate;Göz rengi doldurma
+Apply change color;Renkleri Uygula
+RGB Character;Gökkuşağı karekter
+Color Speed;Renk Hızı
+Link Tool Check ID;Bağlantı aracı kontrol kimligi
+Structures Spawn ID;Yapı oluşturma kimliği
+Items ID;İtem kimligi
+Admin Command;Admin komutları
+Creatures ID;Creatures ID
+Join Discord For Other Versions;Discorda katılın ve başka sürümlerede bakın
+Subscribe to youtube channel;YouTube kanalıma abone olun
+ONLY MULTIPLAYER HACK;ONLY MULTIPLAYER HACK
+Save And Auto Login Server;Kayıt ve Otomatik sunucu girişi
+Login Server;Sunucuya gir
+Save Server Slots_Slot 1,Slot 2,Slot 3,Slot 4,Slot 5;kayıt sunucu yeri_yer 1,yer 2,yer 3,yer 4,yer 5
+Save Server;Kayıt et sunucuyu
+Global Options (MP);Global Ayarlar(ÇOK OYUNCULU)
+Local Speed;Lokal hız
+Raptor Skin;Raptor kaplamas8
+Suicide;intihar
+Auto Explode;Otomatik patlatma
+Manual Explode;Manuel patlatma
+1 Click Crash Server;1 Click Crash Server
+Chat Hack;Chat hilesi
+Chat Type (Red Message)_OFF,Text,Notification,Announcement;Chat seçenekleri (Kırmızı Mesaj)_KAPALI,yazı,Bildirim,Duyuru
+Hide Login;Girişi gizle
+Spam Message;Mesajı spamla
+Admin Panel;Yönetici paneli
+Enable Admin Control with Emotes button (login admin password to admin control work);Admin kontrolünü etkinleştir emoji butonuna tıkla (Yönetici şifresini girmeden kontrol edemezsiniz)
+Enable Teleport and Jump time menu with Whistles button (login admin password to admin control work);ışınlanma ve zıplama zaman menüsü düdük menüsüne tıkla (Yönetici şifresini girmeden çalışmaz )
+Fake Admin;Sahte Yönetici
+ADMIN COMMAND MULTIPLAYER;Yönetici komutları ÇOK OYUNCULU
+Get Item;İtem al
+Item ID;İtem kimligi
+Amount;Miktarı
+Apply;Uygula
+Get Creature;Canlı Al
+Creature ID;Canlı kimliği
+Level;Leveli
+Wild & Random Level;Vahşi ve random level
+Apply;Uygula
+PLAYER TELEPORT;OYUNCU ışınlanması
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;Işınlan_Yeşil oblisk,Kırmız oblisk,Mavi oblisk,Volkan dağı, Griffin  dağı, etobur adası , Ölüm adası, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Custom Latitude (X);Özel enlem (X)
+Custom Longitude (Y);Özel boylam (Y)
+Custom Coordinates (Z);Özel kordinatlar (Z)
+Slot Save Location;Yuva kaydedici
+Apply change;değişiklikleri Uygula
+Setting Command;Komut Ayarları
+Instant Grow Baby;Hemen bebek büyümesi
+Destroy Tribe Structures;Kabile yapılarını yok et
+Destroy Tribe Players;Kabile oyuncularını yok et
+Destroy Tribe Dinos;Bana şunu ver
+Give To  Me;Dünya hızı
+Speed World;Oyun modu_OFF,PVE,PVP,PVX,PVX Clock
+Game Mode_OFF,PVE,PVP,PVX,PVX Clock;Kabile yöneticisi yap
+Make Tribe Admin;Kabile yöneticisi ol
+Make Tribe Founder;Tüm yapıları al
+Take All Structure;Tüm dinoları al
+Take All Dino;Oyuncu hedef kabileye katılsın
+Force Player To Join Target Tribe;Kabile ismine katıl
+Tribe Name For Join;çık
+Quit;Dünyayı kaydet
+Save World;tek dokunuşlar sunucu kapat
+1 Click Crash Server;zorla uyu/Uyan
+Force Sleep/WakeUp;Hedef dino renklendiricisi
+Set Target Dino Color;Region_Wings,Body,Tuft and Legs,Brightness
+Region_Wings,Body,Tuft and Legs,Brightness;Renk kimliği
+Color ID;güven yüzdesi ayarlama miktarı
+Set Imprint Quality;Güven değeri
+Imprint Value;Sınırsız stat
+Infinite Stats;Eski isin
+Old Name;Yeni isim
+New Name;Oyuncu değişikliği/kabile_OFF,Oyuncu değişikliği,Kabile ismi değişikliği
+Rename Player/Tribe_OFF,Rename Player,Rename Tribe;düşmanlar görünmez
+Enemy In Visible;Amber nerede
+Where Is Amber;Oda Işınlanması
+Room Teleport;Oda numarası
+To Room Number;Odadakikerin hepsini öldür
+Room Kill All;Oyuncuları listele
+List Players;Tanrı
+God;GMBuff
+GMBuff;Yağmur yağdır
+Make It Rain;Isı dalgası
+Heat Wave;Oyuncu hareket modu_Yürüme,uçma,hızlı uçma,Hayalet
+Player Move Mode_Walk,Fly,Fly Fast,Ghost;günün zamanını ayarla
+Set Time Of Day;zaman ayarı. örnek: 14:30
+Time Text. Ex: 14:30;Ücretsiz hediye
+Free Gift;Vahşi hayvan Bul
+Find Wild Dino;ID Creature For Find
+ID Creature For Find;Hızlı dinazor çağırma
+Instant Dino Request;Gayrimenkul değeri (>0)
+Value of Property (>0);Şunu uygula_OFF,Dodo büyüklüğü, At-UNICORN-NOCTIS GÜÇ, MAMUT KAPASİTESİ, BALIK büyüklüğü
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;mama yemek kullanmadan tame
+Force Tame;Otomatik Hadefdeki hayvan evcilleştirmesi
+Auto Tame By Target;çiftleşmeyi zorla
+Force Mate;çağırma komutları
+Summon Command;Komuta göre bana ver
+Auto Give To Me By Target;Manuel çağırma metni (çağırdıktan sonraki tüm metinler)
+Manual Summon command (all text after Summon );Uygula
+Apply;Kısayol çağırma komutları
+Shortcut Summon Command;Tek Replikator
+Tek Replicator;Tek ışınlayıcı
+Tek Teleporter;Tek yatak
+Tek Bed;Tek Ramp
+Tek Ramp;Tek Ladder
+Tek Ladder;Tek çubuk
+Tek Pillar;Tek yemlik
+Tek Trough;Tek Kapı
+Tek Door;Tek kapı çerçevesi
+Tek Door Frame;Tek Stairsm
+Tek Stairsm;Tek çit
+Tek Railing;Tek çit temeli
+Tek Fence Foundation;Tek duvar
+Tek Wall;Tek Sağa doğru eğimli duvar
+Tek Wall Sloped Right;Tek Sola doğru eğimli duvar
+Tek Wall Sloped Left;Tek çatı
+Tek Roof;Tek pencere
+Tek Window;Tek pencere duvarı
+Tek Window Wall;Tek Tavan
+Tek Ceiling;Tek Bat rampa
+Tek Bp Rramp;Tek ışık
+Tek Light;Tek kat
+Tek Floor;Tek Jeneratör
+Tek Generator;Manuel yönetici komutları
+Manual Admin Command;komut metni (Yönetici hile sonrası tüm metinler )
+Command text (All Text After Admincheat );Uygula
+Apply;Sadece TEK OYUNCULU HİLE
+ONLY SINGLE PLAYER HACK;Global Ayarlar (TEK OYUNCULU)
+Global Options (SP);Sınırsız amber, Kaynak, Mermi ve beleş üretim
+Infinite Amber, Resources, Ammo & Free Crafting;Sahte 999 Level
+Fake Level 999;Oyuncu hızı
+Player Speed;Oyuncunun vuruş hasar8
+Player Melee Damage;100% chance spawn Noctis in dungeon boss
+100% chance spawn Noctis in dungeon boss;Tüm hayvanları yok et
+Destroy All Creatures;* IŞINLANMA *
+* TELEPORT *;Oyuncu ışınlama
+PLAYER TELEPORT;Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z
+Teleport To_Green obelisk,Red obelisk,Blue Obelisk,Volcano mountain, Griffin mountain, Herbivorous island, Canivore island, Cave in the South, The Middle Chamber,Lava Cave,Northwest Hollow, Swamp Cave, Snow Cave, Save Current Location, Go to Save Location ,Go to custom location with X-Y-Z;özel enlem (X)
+Custom Latitude (X);özel boylam (Y)
+Custom Longitude (Y);özel kordinatlar (Z)
+Custom Coordinates (Z);Yuva lokasyon kaydedici
+Slot Save Location;Değişikliği uygula
+Apply change;Teleport Structures
+Teleport Structures;Change to all structures in radius with Player: (>0)
+Change to all structures in radius with Player: (>0);Increases or decreases (+ or - value) Height Z
+Increases or decreases (+ or - value) Height Z;Increases or decreases (+ or - value) Y
+Increases or decreases (+ or - value) Y;Increases or decreases (+ or - value) X
+Increases or decreases (+ or - value) X;Only change structures with same height Z
+Only change structures with same height Z;Only change structures with same Duration(0: Nochange)
+Only change structures with same Duration(0: Nochange);Move to player Save location
+Move to player Save location;Teleport to Slot Save Location
+Teleport to Slot Save Location;Get Information Structues
+Get Information Structues;Apply change
+Apply change;* PLAYER HACK *
+* PLAYER HACK *;Custom Player Stats
+Custom Player Stats;CHANGE LEVEL PLAYER TO
+CHANGE LEVEL PLAYER TO;MAX HEALTH (>100, 0 for infinite)
+MAX HEALTH (>100, 0 for infinite);MAX STAMINA (>100, 0 for infinite)
+MAX STAMINA (>100, 0 for infinite);MAX OXYGEN (>100, 0 for infinite)
+MAX OXYGEN (>100, 0 for infinite);MAX FOOD (>100, 0 for infinite)
+MAX FOOD (>100, 0 for infinite);MAX WATER (>100, 0 for infinite)
+MAX WATER (>100, 0 for infinite);MAX WEIGHT (>100, 0 for infinite)
+MAX WEIGHT (>100, 0 for infinite);MELEE DAMAGE (>100, 0 for infinite)
+MELEE DAMAGE (>100, 0 for infinite);MOVEMENT SPEED (>100)
+MOVEMENT SPEED (>100);FORTITUDE (>0, 0 for infinite)
+FORTITUDE (>0, 0 for infinite);CRAFTING SPEED (>100, 0 for infinite)
+CRAFTING SPEED (>100, 0 for infinite);MAX TORPOR (>200,0 for infinite)
+MAX TORPOR (>200,0 for infinite);Apply change stats
+Apply change stats;* CREATURES HACK *
+* CREATURES HACK *;Tame Creatures
+Tame Creatures;FAST TAMING?
+FAST TAMING?;Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food)
+Select Method Tame_OFF,Normal (Knock out and zero food),KIll Creature and get implant,Passive Tame (work for every creature), Force Tame (Tame no need food);Teleport Creature to Player
+Teleport Creature to Player;Custom Color Creatures
+Custom Color Creatures;Body Red Value (R)
+Body Red Value (R);Body Green Value (G)
+Body Green Value (G);Body Blue Value (B)
+Body Blue Value (B);Feet Red Value (R)
+Feet Red Value (R);Feet Green Value (G)
+Feet Green Value (G);Feet Blue Value (B)
+Feet Blue Value (B);Other Parts Red Value (R)
+Other Parts Red Value (R);Other Parts Green Value (G)
+Other Parts Green Value (G);Other Parts Blue Value (B)
+Other Parts Blue Value (B);Remove RPG Color
+Remove RPG Color;Apply change Color
+Apply change Color;Breed And Mutation
+Breed And Mutation;Force Breeding (Breeding anytime)
+Force Breeding (Breeding anytime);Imprinting (increase stats for any creatures even no F1)
+Imprinting (increase stats for any creatures even no F1);Maturation (Force Grow Baby)
+Maturation (Force Grow Baby);No Time Can Mate (Reset time Can Mate of creature)
+No Time Can Mate (Reset time Can Mate of creature);Apply change
+Apply change;Creatures Properties
+Creatures Properties;MAKE WILD CREATURE
+MAKE WILD CREATURE;CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature
+CHANGE GENDER & FLY CREATURE_OFF,FeMale,Male, Fly Creature;FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE
+FORCE RIDING & EERIE CREATURE_OFF,FORCE RIDING,EERIE CREATURE;INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE
+INVISIBLE & PICKUP CREATURE_OFF,INVISIBLE (Make any creature invisible like tame in caves),PICKUP CREATURE;Apply change
+Apply change;Custom Special Property Creature
+Custom Special Property Creature;Value of Property (>0)
+Value of Property (>0);Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE
+Apply change to_OFF,SCALE DODO, EQUUS-UNICORN-NOCTIS POWER, MAMMOTH CAPACITY, FISH SIZE;Unlimited Level Creature
+Unlimited Level Creature;WHAT CREATURE LEVEL UP TO? (>1)
+WHAT CREATURE LEVEL UP TO? (>1);MAX HEALTH (Check if prioritize upgrade points here)
+MAX HEALTH (Check if prioritize upgrade points here);MAX STAMINA (Check if prioritize upgrade points here)
+MAX STAMINA (Check if prioritize upgrade points here);MAX OXYGEN (Check if prioritize upgrade points here)
+MAX OXYGEN (Check if prioritize upgrade points here);MAX FOOD (Check if prioritize upgrade points here)
+MAX FOOD (Check if prioritize upgrade points here);MAX WEIGHT (Check if prioritize upgrade points here)
+MAX WEIGHT (Check if prioritize upgrade points here);MAX MELEE DAMAGE (Check if prioritize upgrade points here)
+MAX MELEE DAMAGE (Check if prioritize upgrade points here);MAX TORPOR (Don't care, Auto change by creature's level)
+MAX TORPOR (Don't care, Auto change by creature's level);Apply change
+Apply change;Custom Stats Creature
+Custom Stats Creature;MAX HEALTH (>1, 0 for infinite)
+MAX HEALTH (>1, 0 for infinite);MAX STAMINA (>1, 0 for infinite)
+MAX STAMINA (>1, 0 for infinite);MAX OXYGEN (>1, 0 for infinite)
+MAX OXYGEN (>1, 0 for infinite);MAX FOOD (>1, 0 for infinite)
+MAX FOOD (>1, 0 for infinite);MAX WEIGHT (>1, 0 for infinite)
+MAX WEIGHT (>1, 0 for infinite);MELEE DAMAGE (>1, 0 for infinite)
+MELEE DAMAGE (>1, 0 for infinite);MOVEMENT SPEED (>1)
+MOVEMENT SPEED (>1);MAX TORPOR (>200, 0 for infinite)
+MAX TORPOR (>200, 0 for infinite);EXPERIENCE CREATURE (>=0)
+EXPERIENCE CREATURE (>=0);Apply change stats
+Apply change stats;Free Creatures
+Free Creatures;Enter Creature Id Here (Replace Creature must have lenght ID shorter or equal original)
+Enter Creature Id Here (Replace Creature must have lenght ID shorter or equal original);Change Level Of Creature
+Change Level Of Creature;Free Creature Revival
+Free Creature Revival;Unlimited storage time implant
+Unlimited storage time implant;Apply change
+Apply change;* ITEMS AND EQUIPMENTS HACK*
+* ITEMS AND EQUIPMENTS HACK*;Upgrade Items
+Upgrade Items;Infinite Durability
+Infinite Durability;Max Armor
+Max Armor;Max Damage
+Max Damage;Max Hypothermic and Hyperthermic
+Max Hypothermic and Hyperthermic;Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows)
+Quantity Ammo Clip weapon or Fuel Tek Armor (0: disable, get bugs reload ammo with slingshot and bows);Max Quality
+Max Quality;Make Premium Item
+Make Premium Item;Quantity Of Item (use better with Resources)
+Quantity Of Item (use better with Resources);NO SPOILS (use better with Resources are CONSUMABLES)
+NO SPOILS (use better with Resources are CONSUMABLES);Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg)
+Make Super Kibble/Egg? (Upgrate to Super kibble/Egg if item is kibble/Egg);SKIP THE INCUBATION PERIOD (For Fertilized Egg Items)
+SKIP THE INCUBATION PERIOD (For Fertilized Egg Items);Apply change
+Apply change;Create Blueprint or APKetype Item
+Create Blueprint or APKetype Item;Make Blueprint (no premium) or ARKetype (premium item)
+Make Blueprint (no premium) or ARKetype (premium item);Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources
+Type Item For Change_Armors,Melee Weapons,Range Weapons,Saddles, Structure, Resources;Apply change
+Apply change;Other Items Option
+Other Items Option;Use Durability (Disable Use got bug fill with water skin-jar, canteen)
+Use Durability (Disable Use got bug fill with water skin-jar, canteen);Do not consume Durability
+Do not consume Durability;Force Drop Items
+Force Drop Items;* ENGRAM AND CRAFTING *
+* ENGRAM AND CRAFTING *;ENGRAM AND CRAFTING
+ENGRAM AND CRAFTING;Free Crafting
+Free Crafting;Force Learn Engrams (Ignore Requires Engrams to learn)
+Force Learn Engrams (Ignore Requires Engrams to learn);Speed Crafting
+Speed Crafting;* STRUCTURES HACK *
+* STRUCTURES HACK *;Structure Options
+Structure Options;Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY
+Change To_OFF,INFINITE STRUCTURE DURATION,UNLIMITED HEIGHT,UNLIMITED WEIGHT ELEVATOR PLATFORM, UNLIMITED SLOTS STORAGE (Vault-Storage Box-Large Storage Box-Storage Chest-Refrigerator-Tek Trough-BookShelf), UNLIMITED SADDLE PLATFORM (target on creature with saddle platform to active), UNLIMITED ELECTRICITY;Apply change
+Apply change;* SHOP HACK *
+* SHOP HACK *;SHOP OPTIONS
+SHOP OPTIONS;Unlock Store Items
+Unlock Store Items;No of items on purchase (0: no chance)
+No of items on purchase (0: no chance);Amber Items Cost_OFF,Free,-100,-1000,Negative Cost
+Amber Items Cost_OFF,Free,-100,-1000,Negative Cost;FREE GET ITEMS
+FREE GET ITEMS;Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item)
+Enter Item Id Here (Replace Minor Adaptogenic Serum Consumable to another item);Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant
+Item Quality_Primitive,Ramshackle,Apprentice,Journeyman,Mastercraft, Ascendant;Apply change item
+Apply change item;* GLOBAL HACK *
+* GLOBAL HACK *;GAME MODE CONFIGURATIONS
+GAME MODE CONFIGURATIONS;Has Ascendant Creature Unlock
+Has Ascendant Creature Unlock;Primal Pass
+Primal Pass;God Console
+God Console;Harvest Amount Multiplier
+Harvest Amount Multiplier;Dino Revival Cost Scale
+Dino Revival Cost Scale;Max Amber For Res From Dino
+Max Amber For Res From Dino;Fishing Loot Quality Multiplier
+Fishing Loot Quality Multiplier;Taming Speed Multiplier
+Taming Speed Multiplier;Mating Interval Multiplier
+Mating Interval Multiplier;Egg Hatch Speed Multiplier
+Egg Hatch Speed Multiplier;Baby Mature Speed Multiplier
+Baby Mature Speed Multiplier;Experience Rates
+Experience Rates;Baby Imprinting Speed Scale
+Baby Imprinting Speed Scale;Per Level Stats Multiplier Player
+Per Level Stats Multiplier Player;Experience Boost From Buffs Rates
+Experience Boost From Buffs Rates;GOD CONSOLE MENU (SP)
+GOD CONSOLE MENU (SP);Never Disable God Console
+Never Disable God Console;God Mode - Immortal
+God Mode - Immortal;HEAL ALL
+HEAL ALL;Infinite Stats
+Infinite Stats;Advance Day
+Advance Day;Recolor Target
+Recolor Target;Infinite Ammo
+Infinite Ammo;Fly And Ghost Mode_OFF, Fly, Ghost
+Fly And Ghost Mode_OFF, Fly, Ghost;Give Resources With Max Stack
+Give Resources With Max Stack;Give Resources Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl
+Give Resources Type_Silica Pearls,Thatch,Fiber,Leech Blood,Sap,Metal,Charcoal,AnglerGel,Sparkpowder,Oil,Obsidian,Pelt,Metal Ingot,Stone,Wood,Hide,Crystal,Gasoline,Cementing Paste,Chitin,Electronics,Flint,Polymer,Bio Toxin,Black Pearl;Give Resources
+Give Resources;UI AND SYSTEM OPTIONS
+UI AND SYSTEM OPTIONS;Unlock Store Items
+Unlock Store Items;Disable Play Spawn Intro
+Disable Play Spawn Intro;Spawn Creatures Eery On World (Change at Main Menu)
+Spawn Creatures Eery On World (Change at Main Menu);60fps and True Color Mode
+60fps and True Color Mode;* OTHER HACK *
+* OTHER HACK *;Save And Load data
+Save And Load data;Save Data (To Obb folder)
+Save Data (To Obb folder);Load Data (From Obb folder)
