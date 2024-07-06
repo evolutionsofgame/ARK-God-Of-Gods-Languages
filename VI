@@ -61,7 +61,7 @@ State_Sleep, Active;State_tắt, bật
 Range_Low, Medium, High;Phạm Vi_Thấp, Trung bình, Cao
 Warning_No Warning, 2 Seconds, 4 seconds;Cảnh báo_Không cảnh báo, 2 giây, 4 giây
 Targets_All Targets, Player/Tamed, Only Players, Only Wild;Mục Tiêu_Tất cả mục tiêu, Người chơi/thú tame, Người chơi, Khủng Long hoang dã
-No Ammo Push;Không đẩy đạn
+No Ammo Push;Số đạn đưa vào
 Apply Change All Turrets;Áp dụng thay đổi cho tất cả
 Auto Equip And Consumable;Auto thay giáp và uống máu
 Auto Equip Armors;Auto thay giáp
